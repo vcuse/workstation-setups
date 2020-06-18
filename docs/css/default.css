@@ -1,0 +1,83 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@0;1&family=IBM+Plex+Sans+Condensed:ital@0;1&family=IBM+Plex+Sans:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&family=IBM+Plex+Serif:ital@0;1&display=swap');
+
+body {
+    margin: 5%;
+    font-family: 'IBM Plex Mono', monospace;
+    background-color: lightgray;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+a {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    text-decoration: none;
+    color: rgb(204, 141, 4);
+}
+
+code {
+    padding: 1px;
+    border-radius: 5px;
+    background-color: rgb(238, 238, 238);
+}
+
+a:hover {
+    text-decoration: none;
+    color: gray;
+}
+
+.header {
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-color: rgb(255, 179, 0);
+    border-bottom: 10px solid black;
+}
+
+.main {
+    display: flex; 
+    width: 100%;
+    float: left;
+    background-color: white;
+}
+
+.sidebar {
+    background-color: rgb(241, 241, 241);
+    padding: 1%;
+    width: 20%;
+    float: left;
+}
+
+.content {
+    padding: 2%;
+    width: 80%;
+    float: left;
+}
+
+.footer {
+    height: 10px;
+    width: 100%;
+    margin-bottom: 1%;
+    float: left;
+    color: white;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+
+/* Mobile */
+@media only screen and (max-width:620px) {
+    body {
+        margin: 0;
+    }
+    .header, .sidebar, .content {
+      width:100%;
+   }
+}
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
