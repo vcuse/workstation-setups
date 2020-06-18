@@ -1,5 +1,5 @@
 ---
-title: "Tutorial: Using LabelImg to Annotate Workstations"
+title: "Using LabelImg to Annotate Workstations"
 layout: default
 ---
 <style>
