@@ -1,88 +1,117 @@
 @import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@0;1&family=IBM+Plex+Sans+Condensed:ital@0;1&family=IBM+Plex+Sans:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&family=IBM+Plex+Serif:ital@0;1&display=swap');
 
-body {
-    margin: 5%;
-    font-family: 'IBM Plex Mono', monospace;
-    background-color: lightgray;
-}
-
 * {
     box-sizing: border-box;
 }
 
+body {
+    margin: 0;
+    font-family: 'IBM Plex Mono', monospace;
+    background-color: lightgray;
+}
+
+ul {
+    list-style-type: square;
+}
+
 a {
-    overflow-wrap: break-word;
-    word-wrap: break-word;
     text-decoration: none;
+    word-wrap: break-word;
+    overflow-wrap: break-word;
     color: rgb(204, 141, 4);
+}
+
+a:hover {
+    color: rgb(126, 126, 126);
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    word-break: break-word;
+    border-collapse: collapse;
+}
+
+th, td {
+    padding: 10px;
+    border: 1px solid rgb(0, 0, 0);
+}
+
+img {
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 code {
     padding: 1px;
-    border-radius: 5px;
-    background-color: rgb(238, 238, 238);
-}
-
-a:hover {
-    text-decoration: none;
-    color: gray;
+    border-radius: 2px;
+    background-color: rgb(236, 236, 236);
 }
 
 .header {
-    padding-bottom: 20px;
-    padding-top: 20px;
     width: 100%;
     float: left;
     text-align: center;
     background-color: rgb(255, 179, 0);
-    border-bottom: 10px solid black;
+    border-bottom: 5px solid black;
 }
 
 .main {
-    display: flex; 
     width: 100%;
     float: left;
+    display: flex;
     background-color: white;
 }
 
 .sidebar {
-    background-color: rgb(241, 241, 241);
-    padding: 1%;
     width: 20%;
     float: left;
+    padding-left: 1%;
+    padding-right: 1%;
+    background-color: rgb(241, 241, 241);
+}
+
+.sidebar ul {
+    padding: 0;
+    list-style-type: none;
+}
+
+.sidebar li {
+    margin-top: 3%;
+}
+
+.sidebar a {
+    color: rgb(0, 0, 0);
+}
+
+.sidebar a:hover {
+    color: rgb(126, 126, 126);
 }
 
 .content {
-    padding: 2%;
     width: 80%;
     float: left;
+    padding-left: 2%;
+    padding-right: 2%;
+
 }
 
 .footer {
-    min-height: 10px;
     width: 100%;
-    margin-bottom: 1%;
     float: left;
-    color: white;
     text-align: center;
+    color: rgb(255, 255, 255);
     background-color: rgb(0, 0, 0);
 }
 
 /* Mobile */
 @media only screen and (max-width:860px) {
-    body {
-        margin: 0;
-    }
     .main {
         flex-wrap: wrap;
     }
     .sidebar, .content {
       width: 100%;
    }
-}
-
-table, th, td {
-    border: 1px solid black;
-    border-collapse: collapse;
-    padding: 10px;
 }
