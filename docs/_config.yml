@@ -5,3 +5,6 @@ description: "Understanding what is important to have on a developer workstation
 baseurl: "/workstations"
 url: "https://fronchetti.org"
 github_username:  fronchetti
+
+plugins:
+  - jekyll-last-modified-at
