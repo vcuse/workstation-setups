@@ -6,6 +6,7 @@ layout: default
 In this first stage, two different tasks were performed: The extraction of submissions of workstations sent to a list of subreddits (e.g. _/r/workstations_), and the identification of subreddits that are commonly used by programmers (e.g. _/r/python_).
 
 ## Extracting submissions
+
 To extract submissions containing images of workstations, we focused our efforts in three specific subreddits: _/r/workstations_,_/r/workspaces_, _/r/battlestations_. The extraction was made using PRAW (Python Reddit API Wrapper). For each subreddit, we extracted the top, hot and new submissions, always ignoring duplicates. Each submission was saved in JSON format, and each file was named with the submission identifier on Reddit. The keys of each JSON file were:
 
 - `submission_id`: The identifier of the submission on Reddit.

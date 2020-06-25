@@ -4,7 +4,7 @@ layout: default
 ---
 To simplify the understanding of our work, we divided it in stages:
 
-![GIF - File List](img/png/method-overview.png)
+![GIF - File List](imgs/png/method-overview.png)
 
 ### Stage 1
 

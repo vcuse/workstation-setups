@@ -58,24 +58,24 @@ Extract the zip file in a safe and known location of your computer (e.g. the Doc
 
 Execute LabelImg on your computer (`python3 labelImg.py`). Click on the _Open Dir_ button available on the left sidebar, and select the _Group λ (IMG)_ folder that you extracted during Step 2:
 
-![GIF - Open Dir](img/gif/open-dir.gif)
+![GIF - Open Dir](imgs/gif/open-dir.gif)
 
 This action will load all images of the _Group λ (IMG)_ folder into LabelImg. You can now browse the images using the _File List_ section at the bottom right of the tool:
 
-![GIF - File List](img/gif/file-list.gif)
+![GIF - File List](imgs/gif/file-list.gif)
 
 To save all notes in the correct folder, click the _Change  Save Dir_ button on the left sidebar and select the _Group λ (XML)_ folder that you 
 extracted during Step 2:
 
-![GIF - Save Dir](img/gif/change-savedir.gif)
+![GIF - Save Dir](imgs/gif/change-savedir.gif)
 
 To identify a new object in an image is quite simple: Click on the _Create RectBox_ button available on the left sidebar, and using the mouse pointer create a rectangle over the image where the object that you want to identify is located. A list of categories will be displayed. Select the most appropriate category for the object you want to identify:
 
-![GIF - Create RectBox](img/gif/create-rectbox.gif)
+![GIF - Create RectBox](imgs/gif/create-rectbox.gif)
 
 If the object you want to identify is not related to one of the categories available in the list, ignore it by clicking the exit button and proceeding to the next object. Also make sure that the rectangles you have created are positioned correctly. You can use the mouse cursor to adjust the size of an incorrectly positioned rectangle:
 
-![GIF - Resize RectBox](img/gif/resize-rectbox.gif)
+![GIF - Resize RectBox](imgs/gif/resize-rectbox.gif)
 
 After identifying all the possible objects in an image, click on the _Save_ button on the left sidebar to export your annotations to a XML file.
 Make sure that a XML file is being created at the _Group λ (XML)_ folder.
