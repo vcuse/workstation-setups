@@ -5,10 +5,10 @@ from stage_three import StageThreeMethod
 # stage_one_method = StageOneMethod()
 # subreddits = ['workspaces', 'workstations', 'battlestations']
 # stage_one_method.create_submissions_dataset(subreddits, '../data/submissions/')
-# stage_one_method.create_subreddits_spreadsheet('../data/submissions/', '../data/users-subreddits.csv')
+# stage_one_method.create_subreddits_spreadsheet('../data/submissions/', '../data/authors-subreddits.csv')
 
 # stage_two_method = StageTwoMethod()
-# submissions = stage_two_method.find_developers_submissions('../data/submissions/','../data/users-subreddits.csv')
+# submissions = stage_two_method.find_developers_submissions('../data/submissions/','../data/authors-subreddits.csv')
 # stage_two_method.create_developers_spreadsheet(submissions, '../data/developers-submissions.csv')
 
 stage_three_method = StageThreeMethod()
