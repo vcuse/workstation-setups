@@ -5,7 +5,7 @@ This repository contains the materials used in the paper "{Paper Title}", submit
 
 ## Replication Package:
 
-If you are interested in replicating and/or investigating how we conducted this study, please read our [documentation](https://fronchetti.org/workstations/overview.html).
+If you are interested in replicating and/or investigating how we conducted this study, read our [documentation](https://fronchetti.org/workstations/overview.html).
 
 ## Authors
 
