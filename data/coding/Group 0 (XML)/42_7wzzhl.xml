@@ -1,0 +1,194 @@
+<annotation>
+	<folder>Group 0 (IMG)</folder>
+	<filename>42_7wzzhl.jpg</filename>
+	<path>/Users/athena/Desktop/Battlestations/Group 0/Group 0 (IMG)/42_7wzzhl.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1536</xmin>
+			<ymin>830</ymin>
+			<xmax>2718</xmax>
+			<ymax>1256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>744</xmin>
+			<ymin>730</ymin>
+			<xmax>1544</xmax>
+			<ymax>1300</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>44</xmin>
+			<ymin>697</ymin>
+			<xmax>651</xmax>
+			<ymax>1593</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor Arm</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>455</xmin>
+			<ymin>1848</ymin>
+			<xmax>833</xmax>
+			<ymax>2208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Microphone (with Boom Arm)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1422</xmin>
+			<ymin>1274</ymin>
+			<xmax>1770</xmax>
+			<ymax>1504</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cellphone Charger (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1440</xmin>
+			<ymin>1530</ymin>
+			<xmax>1596</xmax>
+			<ymax>1597</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1173</xmin>
+			<ymin>1867</ymin>
+			<xmax>1670</xmax>
+			<ymax>2182</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cellphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1744</xmin>
+			<ymin>1734</ymin>
+			<xmax>1985</xmax>
+			<ymax>1885</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Sound Card (Pre-amplifier)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1914</xmin>
+			<ymin>1478</ymin>
+			<xmax>2203</xmax>
+			<ymax>1604</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desktop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2507</xmin>
+			<ymin>1122</ymin>
+			<xmax>3036</xmax>
+			<ymax>1793</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cellphone Charger (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>896</xmin>
+			<ymin>1930</ymin>
+			<xmax>2110</xmax>
+			<ymax>2304</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Airpods (Apple)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2833</xmin>
+			<ymin>774</ymin>
+			<xmax>3140</xmax>
+			<ymax>1197</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fan (Desk)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2707</xmin>
+			<ymin>356</ymin>
+			<xmax>3236</xmax>
+			<ymax>856</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chair (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2585</xmin>
+			<ymin>1585</ymin>
+			<xmax>3981</xmax>
+			<ymax>2978</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>1520</ymin>
+			<xmax>2855</xmax>
+			<ymax>2960</ymax>
+		</bndbox>
+	</object>
+</annotation>

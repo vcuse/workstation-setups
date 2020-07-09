@@ -1,0 +1,122 @@
+<annotation>
+	<folder>Group 0 (IMG)</folder>
+	<filename>6_gq667c.jpg</filename>
+	<path>/Users/athena/Desktop/Battlestations/Group 0/Group 0 (IMG)/6_gq667c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3881</width>
+		<height>3015</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Keyboard (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>528</xmin>
+			<ymin>2598</ymin>
+			<xmax>2492</xmax>
+			<ymax>2887</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>46</xmin>
+			<ymin>438</ymin>
+			<xmax>2424</xmax>
+			<ymax>1883</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gaming Controller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>441</xmin>
+			<ymin>2096</ymin>
+			<xmax>1217</xmax>
+			<ymax>2347</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Speakers (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1638</ymin>
+			<xmax>292</xmax>
+			<ymax>2316</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Speakers (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2110</xmin>
+			<ymin>1425</ymin>
+			<xmax>2417</xmax>
+			<ymax>2034</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2544</xmin>
+			<ymin>2183</ymin>
+			<xmax>3146</xmax>
+			<ymax>2591</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1990</xmin>
+			<ymin>2171</ymin>
+			<xmax>3601</xmax>
+			<ymax>2667</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desktop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2388</xmin>
+			<ymin>891</ymin>
+			<xmax>3872</xmax>
+			<ymax>2287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>41</xmin>
+			<ymin>2031</ymin>
+			<xmax>3848</xmax>
+			<ymax>2976</ymax>
+		</bndbox>
+	</object>
+</annotation>

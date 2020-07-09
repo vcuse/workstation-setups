@@ -1,4 +1,4 @@
 ---
-title: "Stage 3: Preparing developers submissions for analysis"
+title: "Stage 3: Analyzing submissions made by developers"
 layout: default
 ---

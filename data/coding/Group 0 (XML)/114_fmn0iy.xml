@@ -1,0 +1,110 @@
+<annotation>
+	<folder>Group 0 (IMG)</folder>
+	<filename>114_fmn0iy.jpg</filename>
+	<path>C:\Users\Makayla\Documents\Research\Group 0\Group 0 (IMG)\114_fmn0iy.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Laptop (OSX)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>468</xmin>
+			<ymin>1712</ymin>
+			<xmax>1856</xmax>
+			<ymax>2515</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>456</xmin>
+			<ymin>756</ymin>
+			<xmax>1646</xmax>
+			<ymax>1678</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lamp (Floor)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>965</xmin>
+			<ymin>387</ymin>
+			<xmax>2515</xmax>
+			<ymax>1903</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1943</xmin>
+			<ymin>2143</ymin>
+			<xmax>2253</xmax>
+			<ymax>2340</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1734</xmin>
+			<ymin>2178</ymin>
+			<xmax>2328</xmax>
+			<ymax>2406</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>121</xmin>
+			<ymin>2499</ymin>
+			<xmax>631</xmax>
+			<ymax>2887</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chair (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2318</xmin>
+			<ymin>1762</ymin>
+			<xmax>3440</xmax>
+			<ymax>2968</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Watch)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2731</xmin>
+			<ymin>1043</ymin>
+			<xmax>3028</xmax>
+			<ymax>1362</ymax>
+		</bndbox>
+	</object>
+</annotation>

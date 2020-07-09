@@ -1,0 +1,134 @@
+<annotation>
+	<folder>Group 0 (IMG)</folder>
+	<filename>104_7be2p6.jpg</filename>
+	<path>C:\Users\Makayla\Documents\Research\Group 0\Group 0 (IMG)\104_7be2p6.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Decoration (Picture)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>489</xmin>
+			<ymin>408</ymin>
+			<xmax>921</xmax>
+			<ymax>969</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2303</xmin>
+			<ymin>697</ymin>
+			<xmax>2996</xmax>
+			<ymax>1351</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3064</xmin>
+			<ymin>762</ymin>
+			<xmax>4007</xmax>
+			<ymax>1669</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2550</xmin>
+			<ymin>1654</ymin>
+			<xmax>2960</xmax>
+			<ymax>1944</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2678</xmin>
+			<ymin>1901</ymin>
+			<xmax>2918</xmax>
+			<ymax>2108</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2082</xmin>
+			<ymin>1679</ymin>
+			<xmax>3400</xmax>
+			<ymax>2208</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Speakers (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2089</xmin>
+			<ymin>854</ymin>
+			<xmax>2293</xmax>
+			<ymax>1258</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desktop (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1875</xmin>
+			<ymin>2079</ymin>
+			<xmax>2168</xmax>
+			<ymax>2737</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chair (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2089</xmin>
+			<ymin>1908</ymin>
+			<xmax>2978</xmax>
+			<ymax>2972</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1864</xmin>
+			<ymin>1440</ymin>
+			<xmax>2582</xmax>
+			<ymax>2140</ymax>
+		</bndbox>
+	</object>
+</annotation>

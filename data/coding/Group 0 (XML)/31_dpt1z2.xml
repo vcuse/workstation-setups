@@ -1,0 +1,182 @@
+<annotation>
+	<folder>Group 0 (IMG)</folder>
+	<filename>31_dpt1z2.png</filename>
+	<path>/Users/athena/Desktop/Battlestations/Group 0/Group 0 (IMG)/31_dpt1z2.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1555</xmin>
+			<ymin>1352</ymin>
+			<xmax>2085</xmax>
+			<ymax>1869</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2465</xmin>
+			<ymin>1449</ymin>
+			<xmax>3008</xmax>
+			<ymax>2062</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Portrait)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2025</xmin>
+			<ymin>1056</ymin>
+			<xmax>2408</xmax>
+			<ymax>1976</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>961</xmin>
+			<ymin>1436</ymin>
+			<xmax>1355</xmax>
+			<ymax>1629</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Ergonomic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1361</xmin>
+			<ymin>1529</ymin>
+			<xmax>1595</xmax>
+			<ymax>1662</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Picture)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>208</xmin>
+			<ymin>56</ymin>
+			<xmax>1725</xmax>
+			<ymax>1156</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2351</xmin>
+			<ymin>2116</ymin>
+			<xmax>2495</xmax>
+			<ymax>2202</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1775</xmin>
+			<ymin>1946</ymin>
+			<xmax>2451</xmax>
+			<ymax>2146</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1141</xmin>
+			<ymin>1786</ymin>
+			<xmax>1601</xmax>
+			<ymax>1969</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Standing)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>358</xmin>
+			<ymin>1816</ymin>
+			<xmax>2591</xmax>
+			<ymax>3426</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Hard Drive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>731</xmin>
+			<ymin>1616</ymin>
+			<xmax>1111</xmax>
+			<ymax>1872</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Water Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1621</xmin>
+			<ymin>1741</ymin>
+			<xmax>1755</xmax>
+			<ymax>2281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2168</xmin>
+			<ymin>2142</ymin>
+			<xmax>2661</xmax>
+			<ymax>2269</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fan (Floor)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>513</xmin>
+			<ymin>1495</ymin>
+			<xmax>683</xmax>
+			<ymax>2682</ymax>
+		</bndbox>
+	</object>
+</annotation>

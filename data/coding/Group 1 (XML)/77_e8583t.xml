@@ -1,0 +1,146 @@
+<annotation>
+	<folder>Group 1 (IMG)</folder>
+	<filename>77_e8583t.jpg</filename>
+	<path>/home/fronchettl/Documents/Group 1 (IMG)/77_e8583t.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2724</width>
+		<height>3634</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1003</xmin>
+			<ymin>3260</ymin>
+			<xmax>1922</xmax>
+			<ymax>3634</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1914</xmin>
+			<ymin>3510</ymin>
+			<xmax>2140</xmax>
+			<ymax>3634</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (iMac)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1128</xmin>
+			<ymin>1644</ymin>
+			<xmax>2724</xmax>
+			<ymax>2979</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>USB Hub</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1205</xmin>
+			<ymin>2641</ymin>
+			<xmax>2556</xmax>
+			<ymax>3200</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Watch)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1377</xmin>
+			<ymin>3074</ymin>
+			<xmax>1955</xmax>
+			<ymax>3246</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Fan (Desk)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>216</xmin>
+			<ymin>2352</ymin>
+			<xmax>445</xmax>
+			<ymax>2769</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Miniature)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2046</ymin>
+			<xmax>266</xmax>
+			<ymax>2935</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tablet (iPad)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>104</xmin>
+			<ymin>2969</ymin>
+			<xmax>895</xmax>
+			<ymax>3453</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>564</xmin>
+			<ymin>1</ymin>
+			<xmax>1822</xmax>
+			<ymax>1432</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2050</xmin>
+			<ymin>2</ymin>
+			<xmax>2724</xmax>
+			<ymax>1408</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2518</ymin>
+			<xmax>2724</xmax>
+			<ymax>3634</ymax>
+		</bndbox>
+	</object>
+</annotation>

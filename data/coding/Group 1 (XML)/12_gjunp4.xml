@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Group 1 (IMG)</folder>
+	<filename>12_gjunp4.png</filename>
+	<path>C:\Users\Luiz H. Susin\Desktop\LabelImg\Group 1 (IMG)\12_gjunp4.png</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1600</xmin>
+			<ymin>284</ymin>
+			<xmax>3099</xmax>
+			<ymax>2161</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Ergonomic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2029</xmin>
+			<ymin>2081</ymin>
+			<xmax>2508</xmax>
+			<ymax>2396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (OSX)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1006</xmin>
+			<ymin>1339</ymin>
+			<xmax>2498</xmax>
+			<ymax>2405</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3</xmin>
+			<ymin>779</ymin>
+			<xmax>4032</xmax>
+			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+</annotation>

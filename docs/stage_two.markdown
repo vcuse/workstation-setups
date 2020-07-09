@@ -20,8 +20,11 @@ Using the list of subreddits associated to software development that we identifi
 - `author_id`: The identifier of the author on Reddit.
 - `subreddits_found`: The subreddits associated to software development found in the author's profile.
 
-It is valid to mention that, to avoid duplicates in this spreadsheet file, we ignored two or more submissions made by a same author. With the spreadsheet created, two researchers also manually
-analyzed the submissions in order to identify the invalid ones.
+It is valid to mention that, to avoid duplicates in this spreadsheet file, we ignored two or more submissions made by a same author.
+
+## Analysis of developers-submissions.csv
+
+With the spreadsheet in hands, two researchers manually analyzed the submissions in order to identify the invalid submissions.
 
 We considered as invalid submissions:
 
