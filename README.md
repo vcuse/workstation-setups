@@ -17,3 +17,5 @@ If you are interested in replicating and/or investigating how we conducted this 
 * Paige Rodeghero - prodegh@clemson.edu
 * Luiz H. Susin - luiz.susin@grad.ufsc.br
 * Boden Khan - bakahn973@comcast.net
+
+Feel free to email us if you have any questions about this repository.
