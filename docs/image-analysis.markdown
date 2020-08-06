@@ -46,9 +46,11 @@ This file contains all the categories of objects we are going to identify in the
 
 After replacing the original _predefined_classes.txt_ file with ours, download the zip file below that corresponds to your group:
 
-- [Group 0.zip](https://drive.google.com/file/d/1XDFOSfOD2ygFRv2iEd9iG1-V48dFdpQr/view?usp=sharing) (Dane and Makayla)
-- [Group 1.zip](https://drive.google.com/file/d/1ELJbMgJIDk2KXv6QVhxEGV6qyA5Exzts/view?usp=sharing) (Felipe and Luiz)
-- [Group 2.zip](https://drive.google.com/file/d/1LB71MJ_CcPssY7bWkPUjizOp317wz0u3/view?usp=sharing) (Boden and Douglas)
+`Update: If you want to download the files below, visit our repository.`
+
+- [Group 0.zip]() (Dane and Makayla)
+- [Group 1.zip]() (Felipe and Luiz)
+- [Group 2.zip]()) (Boden and Douglas)
 
 Each file contains two folders, _Group λ (IMG)_, that contains the set of images that your group will analyze, _and Group λ (XML)_, a folder that each group will use to save their annotations. Do not download a zip file that was not made for your group.
 
