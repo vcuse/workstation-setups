@@ -1,0 +1,70 @@
+# Keywords
+
+Code
+Coding
+Computer
+Develop
+Developer
+Developers
+Developing
+Development
+Language
+Program
+Programmer
+Programmers
+Programming
+Software
+
+# 50 most popular programming languages
+Extracted from: https://www.tiobe.com/tiobe-index/ (May 27th, 2020)
+
+C
+Java
+Python
+C++
+C#
+Visual Basic
+JavaScript
+PHP
+SQL
+R
+Swift
+Go
+MATLAB
+Assembly language
+Ruby
+PL/SQL
+Classic Visual Basic
+Perl
+Scratch
+Objective-C
+Rust
+Dart
+Delphi
+D
+COBOL
+Kotlin 
+Transact-SQL 
+Scala
+SAS 
+ABAP 
+Lisp 
+Lua 
+Ada 
+Fortran 
+PowerShell 
+Logo 
+VBScript 
+Groovy 
+Julia 
+LabVIEW 
+Haskell 
+ActionScript 
+Scheme 
+TypeScript 
+Apex 
+F# 
+Prolog 
+OpenEdge ABL 
+RPG 
+Erlang 

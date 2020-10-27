@@ -1,0 +1,170 @@
+<annotation>
+	<folder>Group 2 (IMG)</folder>
+	<filename>86_929e0q_checkpoint.jpg</filename>
+	<path>C:\Users\bakah\Group 2\Group 2 (IMG)\86_929e0q_checkpoint.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4640</width>
+		<height>3480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>External Microphone (with Boom Arm)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>799</xmin>
+			<ymin>1055</ymin>
+			<xmax>1487</xmax>
+			<ymax>2983</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>25</xmin>
+			<ymin>2502</ymin>
+			<xmax>4640</xmax>
+			<ymax>3476</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desktop (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3559</xmin>
+			<ymin>1705</ymin>
+			<xmax>4607</xmax>
+			<ymax>2794</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Plant)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3855</xmin>
+			<ymin>1635</ymin>
+			<xmax>4032</xmax>
+			<ymax>1761</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Plant)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3144</xmin>
+			<ymin>2114</ymin>
+			<xmax>3691</xmax>
+			<ymax>2632</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Plant)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1433</xmin>
+			<ymin>2817</ymin>
+			<xmax>1688</xmax>
+			<ymax>3066</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1365</xmin>
+			<ymin>2688</ymin>
+			<xmax>3370</xmax>
+			<ymax>3477</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cellphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1736</xmin>
+			<ymin>2840</ymin>
+			<xmax>1917</xmax>
+			<ymax>3087</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Phone Holder</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1754</xmin>
+			<ymin>3094</ymin>
+			<xmax>1911</xmax>
+			<ymax>3124</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1969</xmin>
+			<ymin>2888</ymin>
+			<xmax>2928</xmax>
+			<ymax>3247</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2939</xmin>
+			<ymin>2894</ymin>
+			<xmax>3132</xmax>
+			<ymax>3072</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1402</xmin>
+			<ymin>1914</ymin>
+			<xmax>2965</xmax>
+			<ymax>2810</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1533</xmin>
+			<ymin>1309</ymin>
+			<xmax>2785</xmax>
+			<ymax>1991</ymax>
+		</bndbox>
+	</object>
+</annotation>

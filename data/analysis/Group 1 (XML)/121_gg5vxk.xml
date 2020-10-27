@@ -1,0 +1,170 @@
+<annotation>
+	<folder>Group 1 (IMG)</folder>
+	<filename>121_gg5vxk.jpg</filename>
+	<path>C:\Users\Luiz H. Susin\Desktop\Arquivos UFSC\LabelImg\Group 1 (IMG)\121_gg5vxk.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2000</width>
+		<height>3556</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>External Speakers (Subwoofers)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>1450</ymin>
+			<xmax>484</xmax>
+			<ymax>1712</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Speakers (Subwoofers)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1319</xmin>
+			<ymin>1414</ymin>
+			<xmax>1472</xmax>
+			<ymax>1619</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Plant)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1359</xmin>
+			<ymin>1245</ymin>
+			<xmax>1503</xmax>
+			<ymax>1436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop Stand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1470</xmin>
+			<ymin>1558</ymin>
+			<xmax>1578</xmax>
+			<ymax>1652</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (OSX)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1498</xmin>
+			<ymin>1411</ymin>
+			<xmax>1635</xmax>
+			<ymax>1657</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Ergonomic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1255</xmin>
+			<ymin>1647</ymin>
+			<xmax>1354</xmax>
+			<ymax>1725</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>888</xmin>
+			<ymin>1658</ymin>
+			<xmax>1194</xmax>
+			<ymax>1726</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>624</xmin>
+			<ymin>1565</ymin>
+			<xmax>922</xmax>
+			<ymax>1644</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>582</xmin>
+			<ymin>1641</ymin>
+			<xmax>1451</xmax>
+			<ymax>1828</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Standing)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>137</xmin>
+			<ymin>1524</ymin>
+			<xmax>1787</xmax>
+			<ymax>1882</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chair (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>566</xmin>
+			<ymin>1779</ymin>
+			<xmax>1453</xmax>
+			<ymax>3018</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>752</xmin>
+			<ymin>1203</ymin>
+			<xmax>1300</xmax>
+			<ymax>1526</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Portrait)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>356</xmin>
+			<ymin>947</ymin>
+			<xmax>779</xmax>
+			<ymax>1578</ymax>
+		</bndbox>
+	</object>
+</annotation>

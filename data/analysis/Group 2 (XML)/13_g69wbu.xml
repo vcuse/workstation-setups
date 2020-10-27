@@ -1,0 +1,50 @@
+<annotation verified="yes">
+	<folder>Group 2 (IMG)</folder>
+	<filename>13_g69wbu.jpg</filename>
+	<path>C:\Users\krugdl\Documents\Group 2\Group 2 (IMG)\13_g69wbu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2759</width>
+		<height>2385</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Cellphone</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>796</ymin>
+			<xmax>666</xmax>
+			<ymax>1934</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tablet (iPad)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1895</xmin>
+			<ymin>589</ymin>
+			<xmax>2759</xmax>
+			<ymax>1255</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (OSX)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>299</xmin>
+			<ymin>23</ymin>
+			<xmax>2725</xmax>
+			<ymax>2385</ymax>
+		</bndbox>
+	</object>
+</annotation>

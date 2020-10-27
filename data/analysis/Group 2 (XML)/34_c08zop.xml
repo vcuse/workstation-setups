@@ -1,0 +1,230 @@
+<annotation>
+	<folder>Group 2</folder>
+	<filename>34_c08zop.jpg</filename>
+	<path>/home/fronchettl/Documents/temp/img/Group 2/34_c08zop.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>2268</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1188</xmin>
+			<ymin>422</ymin>
+			<xmax>2178</xmax>
+			<ymax>1022</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>432</ymin>
+			<xmax>1278</xmax>
+			<ymax>1287</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2266</xmin>
+			<ymin>471</ymin>
+			<xmax>3159</xmax>
+			<ymax>1310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desktop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3037</xmin>
+			<ymin>455</ymin>
+			<xmax>3659</xmax>
+			<ymax>1497</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1372</xmin>
+			<ymin>1135</ymin>
+			<xmax>2198</xmax>
+			<ymax>1419</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2230</xmin>
+			<ymin>1197</ymin>
+			<xmax>2411</xmax>
+			<ymax>1355</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chair (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>224</xmin>
+			<ymin>1042</ymin>
+			<xmax>1878</xmax>
+			<ymax>2235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>114</xmin>
+			<ymin>1003</ymin>
+			<xmax>3582</xmax>
+			<ymax>2235</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Headphones (with Microphone)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1992</xmin>
+			<ymin>661</ymin>
+			<xmax>2306</xmax>
+			<ymax>1038</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Microphone (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2106</xmin>
+			<ymin>725</ymin>
+			<xmax>2271</xmax>
+			<ymax>1203</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2158</xmin>
+			<ymin>1220</ymin>
+			<xmax>2542</xmax>
+			<ymax>1421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Miniature)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1042</xmin>
+			<ymin>969</ymin>
+			<xmax>1756</xmax>
+			<ymax>1230</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Rubric's Cube)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1291</xmin>
+			<ymin>227</ymin>
+			<xmax>1437</xmax>
+			<ymax>367</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Rubric's Cube)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1410</xmin>
+			<ymin>228</ymin>
+			<xmax>1515</xmax>
+			<ymax>358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Rubric's Cube)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1515</xmin>
+			<ymin>229</ymin>
+			<xmax>1630</xmax>
+			<ymax>343</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Rubric's Cube)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1625</xmin>
+			<ymin>214</ymin>
+			<xmax>1740</xmax>
+			<ymax>328</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Picture)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2044</xmin>
+			<ymin>186</ymin>
+			<xmax>2239</xmax>
+			<ymax>353</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Rubric's Cube)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3405</xmin>
+			<ymin>426</ymin>
+			<xmax>3579</xmax>
+			<ymax>663</ymax>
+		</bndbox>
+	</object>
+</annotation>

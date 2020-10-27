@@ -1,0 +1,11 @@
+.vscode
+venv
+__pycache__
+exceptions.log
+# We do not provide the folder with images out of respect for their owners.
+# If you want to access them, use the URLs in the spreadsheets.
+img/
+Objects/
+Group 0 (IMG)/
+Group 1 (IMG)/
+Group 2 (IMG)/

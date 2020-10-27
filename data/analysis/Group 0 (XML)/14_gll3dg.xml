@@ -1,0 +1,110 @@
+<annotation>
+	<folder>Group 0</folder>
+	<filename>14_gll3dg.jpg</filename>
+	<path>/home/fronchettl/Documents/temp/img/Group 0/14_gll3dg.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>737</xmin>
+			<ymin>1525</ymin>
+			<xmax>2373</xmax>
+			<ymax>2085</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>478</xmin>
+			<ymin>94</ymin>
+			<xmax>2556</xmax>
+			<ymax>1529</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2667</xmin>
+			<ymin>2003</ymin>
+			<xmax>3152</xmax>
+			<ymax>2361</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gaming Controller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2037</xmin>
+			<ymin>2307</ymin>
+			<xmax>2727</xmax>
+			<ymax>2837</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gaming Console</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3027</xmin>
+			<ymin>1646</ymin>
+			<xmax>3721</xmax>
+			<ymax>2285</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Printer</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3397</xmin>
+			<ymin>1807</ymin>
+			<xmax>4608</xmax>
+			<ymax>3434</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>1398</ymin>
+			<xmax>4608</xmax>
+			<ymax>3456</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Storage Drawer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>252</xmin>
+			<ymin>1764</ymin>
+			<xmax>1476</xmax>
+			<ymax>3452</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,122 @@
+<annotation>
+	<folder>Group 0 (IMG)</folder>
+	<filename>96_bzpi9j.jpg</filename>
+	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\96_bzpi9j.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Laptop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2088</xmin>
+			<ymin>1537</ymin>
+			<xmax>2819</xmax>
+			<ymax>2194</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1785</xmin>
+			<ymin>843</ymin>
+			<xmax>2922</xmax>
+			<ymax>1525</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Watch)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2999</xmin>
+			<ymin>1905</ymin>
+			<xmax>3232</xmax>
+			<ymax>2196</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3537</xmin>
+			<ymin>1582</ymin>
+			<xmax>4046</xmax>
+			<ymax>1928</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Picture)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>719</xmin>
+			<ymin>2022</ymin>
+			<xmax>1873</xmax>
+			<ymax>2358</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Lamp (Desk)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>417</xmin>
+			<ymin>679</ymin>
+			<xmax>1319</xmax>
+			<ymax>1779</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Trash Can</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3190</xmin>
+			<ymin>2530</ymin>
+			<xmax>3945</xmax>
+			<ymax>3212</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chair (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2230</ymin>
+			<xmax>2900</xmax>
+			<ymax>3456</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1479</ymin>
+			<xmax>4608</xmax>
+			<ymax>2560</ymax>
+		</bndbox>
+	</object>
+</annotation>

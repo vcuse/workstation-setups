@@ -1,0 +1,98 @@
+<annotation>
+	<folder>Group 1 (IMG)</folder>
+	<filename>116_9ucbp5_checkpoint.jpg</filename>
+	<path>C:\Users\Luiz H. Susin\Desktop\Arquivos UFSC\LabelImg\Group 1 (IMG)\116_9ucbp5_checkpoint.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1122</width>
+		<height>2208</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Laptop (OSX)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>246</xmin>
+			<ymin>1424</ymin>
+			<xmax>680</xmax>
+			<ymax>1811</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Watch)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>782</xmin>
+			<ymin>1664</ymin>
+			<xmax>868</xmax>
+			<ymax>1814</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Airpods (Apple)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>699</xmin>
+			<ymin>1658</ymin>
+			<xmax>758</xmax>
+			<ymax>1714</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cellphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>707</xmin>
+			<ymin>1718</ymin>
+			<xmax>797</xmax>
+			<ymax>1796</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Tablet (iPad)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>829</xmin>
+			<ymin>1665</ymin>
+			<xmax>1102</xmax>
+			<ymax>1805</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cellphone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>841</xmin>
+			<ymin>1634</ymin>
+			<xmax>988</xmax>
+			<ymax>1668</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1614</ymin>
+			<xmax>1115</xmax>
+			<ymax>1885</ymax>
+		</bndbox>
+	</object>
+</annotation>

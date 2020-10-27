@@ -1,0 +1,218 @@
+<annotation>
+	<folder>Group 2</folder>
+	<filename>8_gmgfcf.jpg</filename>
+	<path>/home/fronchettl/Documents/temp/img/Group 2/8_gmgfcf.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Decoration (Picture)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>161</ymin>
+			<xmax>257</xmax>
+			<ymax>1646</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2113</ymin>
+			<xmax>820</xmax>
+			<ymax>2987</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1349</xmin>
+			<ymin>747</ymin>
+			<xmax>2323</xmax>
+			<ymax>1217</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3373</xmin>
+			<ymin>1007</ymin>
+			<xmax>4032</xmax>
+			<ymax>1749</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>762</xmin>
+			<ymin>1239</ymin>
+			<xmax>2979</xmax>
+			<ymax>2428</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desktop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2482</xmin>
+			<ymin>1687</ymin>
+			<xmax>2904</xmax>
+			<ymax>2384</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>744</xmin>
+			<ymin>1087</ymin>
+			<xmax>1279</xmax>
+			<ymax>1481</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2373</xmin>
+			<ymin>949</ymin>
+			<xmax>3036</xmax>
+			<ymax>1409</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Portrait)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2373</xmin>
+			<ymin>568</ymin>
+			<xmax>2777</xmax>
+			<ymax>1249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Portrait)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>854</xmin>
+			<ymin>600</ymin>
+			<xmax>1304</xmax>
+			<ymax>1281</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1215</xmin>
+			<ymin>1318</ymin>
+			<xmax>2446</xmax>
+			<ymax>1437</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gaming Console</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3273</xmin>
+			<ymin>1718</ymin>
+			<xmax>4032</xmax>
+			<ymax>2003</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gaming Controller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1413</xmin>
+			<ymin>1235</ymin>
+			<xmax>1582</xmax>
+			<ymax>1319</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gaming Controller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1581</xmin>
+			<ymin>1221</ymin>
+			<xmax>1759</xmax>
+			<ymax>1291</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1954</xmin>
+			<ymin>1294</ymin>
+			<xmax>2070</xmax>
+			<ymax>1374</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2217</xmin>
+			<ymin>1293</ymin>
+			<xmax>2314</xmax>
+			<ymax>1368</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1266</xmin>
+			<ymin>1277</ymin>
+			<xmax>1824</xmax>
+			<ymax>1393</ymax>
+		</bndbox>
+	</object>
+</annotation>

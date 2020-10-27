@@ -1,0 +1,134 @@
+<annotation>
+	<folder>Group 1 (IMG)</folder>
+	<filename>113_gkp6kq.jpg</filename>
+	<path>C:\Users\Luiz H. Susin\Desktop\Arquivos UFSC\LabelImg\Group 1 (IMG)\113_gkp6kq.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>271</xmin>
+			<ymin>3173</ymin>
+			<xmax>1582</xmax>
+			<ymax>3581</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Microphone (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1775</xmin>
+			<ymin>2619</ymin>
+			<xmax>2502</xmax>
+			<ymax>3458</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Clock)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>28</xmin>
+			<ymin>2181</ymin>
+			<xmax>390</xmax>
+			<ymax>2785</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>186</xmin>
+			<ymin>1565</ymin>
+			<xmax>1559</xmax>
+			<ymax>2377</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (Linux)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1344</xmin>
+			<ymin>2215</ymin>
+			<xmax>2102</xmax>
+			<ymax>2746</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2255</xmin>
+			<ymin>3227</ymin>
+			<xmax>3013</xmax>
+			<ymax>3873</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2652</xmin>
+			<ymin>3408</ymin>
+			<xmax>2967</xmax>
+			<ymax>3796</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Picture)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1967</xmin>
+			<ymin>373</ymin>
+			<xmax>2898</xmax>
+			<ymax>1554</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Picture)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>235</xmin>
+			<ymin>1</ymin>
+			<xmax>1117</xmax>
+			<ymax>842</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop Stand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1526</xmin>
+			<ymin>2627</ymin>
+			<xmax>1878</xmax>
+			<ymax>2792</ymax>
+		</bndbox>
+	</object>
+</annotation>

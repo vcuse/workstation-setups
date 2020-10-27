@@ -1,0 +1,89 @@
+Acoustic Foam
+Airpods (Apple)
+Airpods (Generic)
+Airpods (Samsung)
+Back-UPS
+Book
+Cellphone
+Cellphone Charger (Generic)
+Cellphone Charger (Wireless)
+Chair (Gaming)
+Chair (Generic)
+Cup
+Decoration (Candle)
+Decoration (Clock)
+Decoration (Generic)
+Decoration (Miniature)
+Decoration (Picture)
+Decoration (Plant)
+Decoration (Rubric's Cube)
+Decoration (Watch)
+Desk (Generic)
+Desk (Standing)
+Desktop (Generic)
+Desktop (Linux)
+Desktop (OSX)
+Desktop (Windows)
+Drawing Pad
+Drink Coaster
+Earphones
+Earphones (with Microphone)
+External Hard Drive
+External Microphone (Generic)
+External Microphone (with Boom Arm)
+External Numpad
+External Sound Card (Pre-amplifier)
+External Speakers (Generic)
+External Speakers (Subwoofers)
+External Webcam
+Fan (Desk)
+Fan (Floor)
+Footrest
+Gaming Console
+Gaming Controller
+Headphones
+Headphones (with Microphone)
+IoT Devices (Raspberry, Arduino, etc)
+Keyboard (Ergonomic)
+Keyboard (Gaming)
+Keyboard (Generic)
+Lamp (Desk)
+Lamp (Floor)
+Laptop (Generic)
+Laptop (Linux)
+Laptop (OSX)
+Laptop (Windows)
+Laptop Stand
+Mini Fridge
+Monitor (Landscape)
+Monitor (Portrait)
+Monitor (iMac)
+Monitor Arm
+Mouse (Ergonomic)
+Mouse (Gaming)
+Mouse (Generic)
+Mouse (Magic Trackpad)
+Mousepad (Gaming)
+Mousepad (Generic)
+Mug
+Musical Instrument (Electric Guitar)
+Musical Instrument (Generic)
+Musical Instrument (Guitar)
+Musical Instrument (Keyboard/Piano)
+Notebook
+Phone Holder
+Post-it Note
+Power Strip
+Printer
+Router
+Scientific Calculator
+Storage Drawer
+Stream Deck
+Tablet (Android)
+Tablet (Generic)
+Tablet (Windows)
+Tablet (iPad)
+Telephone
+Trash Can
+USB Hub
+Water Bottle

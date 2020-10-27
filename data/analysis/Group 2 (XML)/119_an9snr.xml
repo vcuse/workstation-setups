@@ -1,0 +1,146 @@
+<annotation>
+	<folder>Group 2 (IMG)</folder>
+	<filename>119_an9snr.jpg</filename>
+	<path>C:\Users\bakah\Group 2\Group 2 (IMG)\119_an9snr.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3264</width>
+		<height>2448</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>625</xmin>
+			<ymin>1760</ymin>
+			<xmax>2227</xmax>
+			<ymax>2448</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>171</xmin>
+			<ymin>365</ymin>
+			<xmax>607</xmax>
+			<ymax>1913</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1176</xmin>
+			<ymin>308</ymin>
+			<xmax>1751</xmax>
+			<ymax>747</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>304</xmin>
+			<ymin>2054</ymin>
+			<xmax>520</xmax>
+			<ymax>2265</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Plant)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2035</xmin>
+			<ymin>1044</ymin>
+			<xmax>3020</xmax>
+			<ymax>2447</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Storage Drawer</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>933</xmin>
+			<ymin>1847</ymin>
+			<xmax>1927</xmax>
+			<ymax>1990</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Speakers (Subwoofers)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1961</xmin>
+			<ymin>1603</ymin>
+			<xmax>2097</xmax>
+			<ymax>1772</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Speakers (Subwoofers)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>804</xmin>
+			<ymin>1601</ymin>
+			<xmax>956</xmax>
+			<ymax>1780</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1884</xmin>
+			<ymin>1785</ymin>
+			<xmax>1953</xmax>
+			<ymax>1834</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1222</xmin>
+			<ymin>1772</ymin>
+			<xmax>1697</xmax>
+			<ymax>1826</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>953</xmin>
+			<ymin>1008</ymin>
+			<xmax>1981</xmax>
+			<ymax>1598</ymax>
+		</bndbox>
+	</object>
+</annotation>

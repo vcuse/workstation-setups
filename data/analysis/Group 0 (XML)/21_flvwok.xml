@@ -1,0 +1,158 @@
+<annotation>
+	<folder>Group 0</folder>
+	<filename>21_flvwok.jpg</filename>
+	<path>/home/fronchettl/Documents/temp/img/Group 0/21_flvwok.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1435</xmin>
+			<ymin>717</ymin>
+			<xmax>3117</xmax>
+			<ymax>1782</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1253</xmin>
+			<ymin>1934</ymin>
+			<xmax>2034</xmax>
+			<ymax>2348</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Headphones (with Microphone)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>771</xmin>
+			<ymin>1763</ymin>
+			<xmax>1304</xmax>
+			<ymax>2067</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (OSX)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>473</xmin>
+			<ymin>1651</ymin>
+			<xmax>1171</xmax>
+			<ymax>1880</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>USB Hub</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>467</xmin>
+			<ymin>1682</ymin>
+			<xmax>556</xmax>
+			<ymax>1785</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Miniature)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2508</xmin>
+			<ymin>1700</ymin>
+			<xmax>2675</xmax>
+			<ymax>1882</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Picture)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2744</xmin>
+			<ymin>1592</ymin>
+			<xmax>3597</xmax>
+			<ymax>2566</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Ergonomic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2319</xmin>
+			<ymin>2234</ymin>
+			<xmax>2538</xmax>
+			<ymax>2574</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>893</xmin>
+			<ymin>1822</ymin>
+			<xmax>2542</xmax>
+			<ymax>2826</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Chair (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1911</ymin>
+			<xmax>1121</xmax>
+			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Drink Coaster</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>447</xmin>
+			<ymin>1925</ymin>
+			<xmax>745</xmax>
+			<ymax>2088</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1632</ymin>
+			<xmax>4032</xmax>
+			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+</annotation>

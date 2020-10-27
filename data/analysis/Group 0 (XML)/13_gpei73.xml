@@ -1,0 +1,74 @@
+<annotation>
+	<folder>Group 0</folder>
+	<filename>13_gpei73.jpg</filename>
+	<path>/home/fronchettl/Documents/temp/img/Group 0/13_gpei73.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4160</width>
+		<height>3120</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>292</xmin>
+			<ymin>1</ymin>
+			<xmax>2451</xmax>
+			<ymax>2849</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desktop (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2469</xmin>
+			<ymin>57</ymin>
+			<xmax>4127</xmax>
+			<ymax>1711</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2881</xmin>
+			<ymin>1638</ymin>
+			<xmax>3409</xmax>
+			<ymax>1954</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1901</xmin>
+			<ymin>1829</ymin>
+			<xmax>2963</xmax>
+			<ymax>2801</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1443</ymin>
+			<xmax>4160</xmax>
+			<ymax>3120</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,158 @@
+<annotation>
+	<folder>Group 1</folder>
+	<filename>3_gpez4j.jpg</filename>
+	<path>/home/fronchettl/Documents/temp/img/Group 1/3_gpez4j.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>1960</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>855</xmin>
+			<ymin>460</ymin>
+			<xmax>3302</xmax>
+			<ymax>1192</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Hard Drive</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>1381</ymin>
+			<xmax>561</xmax>
+			<ymax>1933</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desktop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2660</xmin>
+			<ymin>1597</ymin>
+			<xmax>3267</xmax>
+			<ymax>1960</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1836</xmin>
+			<ymin>1188</ymin>
+			<xmax>2643</xmax>
+			<ymax>1250</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Ergonomic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2673</xmin>
+			<ymin>1145</ymin>
+			<xmax>2849</xmax>
+			<ymax>1244</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Sound Card (Pre-amplifier)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2474</xmin>
+			<ymin>1119</ymin>
+			<xmax>2699</xmax>
+			<ymax>1219</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Speakers (Subwoofers)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>249</xmin>
+			<ymin>705</ymin>
+			<xmax>662</xmax>
+			<ymax>1254</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Speakers (Subwoofers)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3465</xmin>
+			<ymin>743</ymin>
+			<xmax>3863</xmax>
+			<ymax>1256</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>5</xmin>
+			<ymin>1195</ymin>
+			<xmax>4032</xmax>
+			<ymax>1960</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>873</xmin>
+			<ymin>1178</ymin>
+			<xmax>3374</xmax>
+			<ymax>1311</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Headphones</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3881</xmin>
+			<ymin>800</ymin>
+			<xmax>4032</xmax>
+			<ymax>1147</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Plant)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3714</xmin>
+			<ymin>428</ymin>
+			<xmax>4032</xmax>
+			<ymax>1209</ymax>
+		</bndbox>
+	</object>
+</annotation>

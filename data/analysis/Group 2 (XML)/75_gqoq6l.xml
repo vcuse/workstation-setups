@@ -1,0 +1,194 @@
+<annotation>
+	<folder>Group 2 (IMG)</folder>
+	<filename>75_gqoq6l.jpg</filename>
+	<path>C:\Users\krugdl\Documents\Group 2\Group 2 (IMG)\75_gqoq6l.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>547</xmin>
+			<ymin>826</ymin>
+			<xmax>2084</xmax>
+			<ymax>1706</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desktop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2241</xmin>
+			<ymin>676</ymin>
+			<xmax>3357</xmax>
+			<ymax>1786</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1374</xmin>
+			<ymin>1956</ymin>
+			<xmax>2581</xmax>
+			<ymax>2436</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2724</xmin>
+			<ymin>2016</ymin>
+			<xmax>3004</xmax>
+			<ymax>2233</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2544</xmin>
+			<ymin>1996</ymin>
+			<xmax>3204</xmax>
+			<ymax>2396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gaming Console</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>71</xmin>
+			<ymin>2000</ymin>
+			<xmax>1214</xmax>
+			<ymax>2530</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gaming Controller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>281</xmin>
+			<ymin>1733</ymin>
+			<xmax>1207</xmax>
+			<ymax>2033</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Headphones (with Microphone)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1994</xmin>
+			<ymin>636</ymin>
+			<xmax>2521</xmax>
+			<ymax>1213</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Book</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2937</xmin>
+			<ymin>1926</ymin>
+			<xmax>3617</xmax>
+			<ymax>2310</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Miniature)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2117</xmin>
+			<ymin>1466</ymin>
+			<xmax>2304</xmax>
+			<ymax>1900</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Decoration (Miniature)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1791</xmin>
+			<ymin>213</ymin>
+			<xmax>3381</xmax>
+			<ymax>623</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cellphone Charger (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3124</xmin>
+			<ymin>2209</ymin>
+			<xmax>3253</xmax>
+			<ymax>2393</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gaming Controller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3473</xmin>
+			<ymin>743</ymin>
+			<xmax>3657</xmax>
+			<ymax>955</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>USB Hub</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1859</xmin>
+			<ymin>1678</ymin>
+			<xmax>2131</xmax>
+			<ymax>1819</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>27</xmin>
+			<ymin>333</ymin>
+			<xmax>4032</xmax>
+			<ymax>2990</ymax>
+		</bndbox>
+	</object>
+</annotation>
