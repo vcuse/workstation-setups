@@ -1,12 +1,10 @@
 import os
 import xml.dom.minidom
-import collections
+import shutil
 
 
 def main():
     threshold = 7
-
-    predef_classes = []
 
     with open("predefined_classes.txt") as file:
         predef_classes = file.readlines()
@@ -19,6 +17,9 @@ def main():
 
     for predef_class in predef_classes:
         dct[predef_class.replace('\n', '')] = 0
+
+    os.makedirs(os.path.dirname("E:/Github/Research VCU/workstations/data/images/analysed/Minimalistic/Threshold "
+                                + str(threshold) + "/"), exist_ok=True)
 
     print("Group 0:")
 
@@ -41,6 +42,9 @@ def main():
 
         if counter <= threshold:
             print("%s" % f)
+            shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 0/" + f.replace("xml", "jpg"),
+                         "E:/Github/Research VCU/workstations/data/images/analysed/Minimalistic/Threshold " +
+                         str(threshold) + "/")
 
     print("Group 1:")
 
@@ -63,6 +67,9 @@ def main():
 
         if counter <= threshold:
             print("%s" % f)
+            shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 1/" + f.replace("xml", "jpg"),
+                         "E:/Github/Research VCU/workstations/data/images/analysed/Minimalistic/Threshold " +
+                         str(threshold) + "/")
 
     print("Group 2:")
 
@@ -85,6 +92,9 @@ def main():
 
         if counter <= threshold:
             print("%s" % f)
+            shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 2/" + f.replace("xml", "jpg"),
+                         "E:/Github/Research VCU/workstations/data/images/analysed/Minimalistic/Threshold " +
+                         str(threshold) + "/")
 
 
 if __name__ == "__main__":

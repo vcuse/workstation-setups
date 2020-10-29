@@ -1,5 +1,6 @@
 import os
 import xml.dom.minidom
+import shutil
 
 
 def main():
@@ -17,6 +18,14 @@ def main():
     musc_inst_3 = "Musical Instrument (Guitar)"
     musc_inst_4 = "Musical Instrument (Keyboard/Piano)"
 
+    ext_woofers = "External Speakers (Subwoofers)"
+
+    os.makedirs(os.path.dirname("E:/Github/Research VCU/workstations/data/images/analysed/Musicians/Instruments/"),
+                exist_ok=True)
+
+    os.makedirs(os.path.dirname("E:/Github/Research VCU/workstations/data/images/analysed/Musicians/Subwoofers/"),
+                exist_ok=True)
+
     print("Group 0:")
 
     for f in g0_files:
@@ -27,7 +36,16 @@ def main():
             objname = obj.getElementsByTagName("name")[0].firstChild.data
 
             if objname == musc_inst_1 or objname == musc_inst_2 or objname == musc_inst_3 or objname == musc_inst_4:
-                print("%s" % f)
+                print("Instrument: %s" % f)
+                shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 0/" + f.replace("xml", "jpg"),
+                             "E:/Github/Research VCU/workstations/data/images/analysed/Musicians/Instruments/")
+                break
+
+            if objname == ext_woofers:
+                print("Subwoofer: %s" % f)
+                shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 0/" + f.replace("xml", "jpg"),
+                             "E:/Github/Research VCU/workstations/data/images/analysed/Musicians/Subwoofers/")
+                break
 
     print("Group 1:")
 
@@ -39,7 +57,15 @@ def main():
             objname = obj.getElementsByTagName("name")[0].firstChild.data
 
             if objname == musc_inst_1 or objname == musc_inst_2 or objname == musc_inst_3 or objname == musc_inst_4:
-                print("%s" % f)
+                print("Instrument: %s" % f)
+                shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 1/" + f.replace("xml", "jpg"),
+                             "E:/Github/Research VCU/workstations/data/images/analysed/Musicians/Instruments/")
+
+            if objname == ext_woofers:
+                print("Subwoofer: %s" % f)
+                shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 1/" + f.replace("xml", "jpg"),
+                             "E:/Github/Research VCU/workstations/data/images/analysed/Musicians/Subwoofers/")
+                break
 
     print("Group 2:")
 
@@ -51,7 +77,15 @@ def main():
             objname = obj.getElementsByTagName("name")[0].firstChild.data
 
             if objname == musc_inst_1 or objname == musc_inst_2 or objname == musc_inst_3 or objname == musc_inst_4:
-                print("%s" % f)
+                print("Instrument: %s" % f)
+                shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 2/" + f.replace("xml", "jpg"),
+                             "E:/Github/Research VCU/workstations/data/images/analysed/Musicians/Instruments/")
+
+            if objname == ext_woofers:
+                print("Subwoofer: %s" % f)
+                shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 2/" + f.replace("xml", "jpg"),
+                             "E:/Github/Research VCU/workstations/data/images/analysed/Musicians/Subwoofers/")
+                break
 
 
 if __name__ == "__main__":
