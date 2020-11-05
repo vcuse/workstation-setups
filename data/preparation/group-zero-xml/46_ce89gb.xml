@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0</folder>
+	<folder>Images</folder>
 	<filename>46_ce89gb.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 0/46_ce89gb.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\46_ce89gb.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -189,6 +189,18 @@
 			<ymin>1833</ymin>
 			<xmax>933</xmax>
 			<ymax>2135</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>250</xmin>
+			<ymin>587</ymin>
+			<xmax>1177</xmax>
+			<ymax>1336</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>17_a9n1uk.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\LabelImg\Group 1 (IMG)\17_a9n1uk.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 1\Images\17_a9n1uk.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -93,6 +93,18 @@
 			<ymin>2336</ymin>
 			<xmax>2963</xmax>
 			<ymax>3968</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1765</ymin>
+			<xmax>786</xmax>
+			<ymax>2458</ymax>
 		</bndbox>
 	</object>
 </annotation>

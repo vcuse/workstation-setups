@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2</folder>
+	<folder>Images</folder>
 	<filename>52_gntqri.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 2/52_gntqri.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 2\Images\52_gntqri.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -129,6 +129,18 @@
 			<ymin>1731</ymin>
 			<xmax>2575</xmax>
 			<ymax>1944</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>692</ymin>
+			<xmax>791</xmax>
+			<ymax>1640</ymax>
 		</bndbox>
 	</object>
 </annotation>

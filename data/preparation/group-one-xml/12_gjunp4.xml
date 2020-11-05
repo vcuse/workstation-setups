@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1</folder>
-	<filename>12_gjunp4.png</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 1/12_gjunp4.png</path>
+	<folder>Images</folder>
+	<filename>12_gjunp4.jpg</filename>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 1\Images\12_gjunp4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -57,6 +57,18 @@
 			<ymin>904</ymin>
 			<xmax>4032</xmax>
 			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1669</xmin>
+			<ymin>1337</ymin>
+			<xmax>2474</xmax>
+			<ymax>2163</ymax>
 		</bndbox>
 	</object>
 </annotation>

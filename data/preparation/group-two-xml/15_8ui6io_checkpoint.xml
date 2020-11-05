@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>15_8ui6io_checkpoint.jpg</filename>
-	<path>C:\Users\bakah\Group 2\Group 2 (IMG)\15_8ui6io_checkpoint.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 2\Images\15_8ui6io_checkpoint.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -249,6 +249,18 @@
 			<ymin>398</ymin>
 			<xmax>1388</xmax>
 			<ymax>762</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>288</xmin>
+			<ymin>882</ymin>
+			<xmax>1001</xmax>
+			<ymax>1377</ymax>
 		</bndbox>
 	</object>
 </annotation>

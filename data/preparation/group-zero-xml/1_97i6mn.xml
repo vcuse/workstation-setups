@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0</folder>
+	<folder>Images</folder>
 	<filename>1_97i6mn.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 0/1_97i6mn.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\1_97i6mn.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -237,6 +237,18 @@
 			<ymin>1293</ymin>
 			<xmax>1367</xmax>
 			<ymax>1773</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1318</xmin>
+			<ymin>1022</ymin>
+			<xmax>1541</xmax>
+			<ymax>1168</ymax>
 		</bndbox>
 	</object>
 </annotation>

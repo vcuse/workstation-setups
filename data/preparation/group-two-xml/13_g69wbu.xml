@@ -1,7 +1,7 @@
 <annotation verified="yes">
-	<folder>Group 2 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>13_g69wbu.jpg</filename>
-	<path>C:\Users\krugdl\Documents\Group 2\Group 2 (IMG)\13_g69wbu.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 2\Images\13_g69wbu.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -45,6 +45,18 @@
 			<ymin>23</ymin>
 			<xmax>2725</xmax>
 			<ymax>2385</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>58</ymin>
+			<xmax>1934</xmax>
+			<ymax>1435</ymax>
 		</bndbox>
 	</object>
 </annotation>

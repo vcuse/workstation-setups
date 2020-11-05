@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>49_g4d4s2.jpg</filename>
-	<path>C:\Users\krugdl\Documents\Group 2\Group 2 (IMG)\49_g4d4s2.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 2\Images\49_g4d4s2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -93,6 +93,18 @@
 			<ymin>754</ymin>
 			<xmax>2163</xmax>
 			<ymax>1115</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1321</xmin>
+			<ymin>133</ymin>
+			<xmax>1906</xmax>
+			<ymax>931</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1</folder>
+	<folder>Images</folder>
 	<filename>54_6s5w7l.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 1/54_6s5w7l.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 1\Images\54_6s5w7l.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -261,6 +261,18 @@
 			<ymin>1</ymin>
 			<xmax>2198</xmax>
 			<ymax>441</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3182</xmin>
+			<ymin>1494</ymin>
+			<xmax>3738</xmax>
+			<ymax>2063</ymax>
 		</bndbox>
 	</object>
 </annotation>

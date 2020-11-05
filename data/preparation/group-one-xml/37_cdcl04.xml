@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1</folder>
+	<folder>Images</folder>
 	<filename>37_cdcl04.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 1/37_cdcl04.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 1\Images\37_cdcl04.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -177,6 +177,18 @@
 			<ymin>295</ymin>
 			<xmax>816</xmax>
 			<ymax>821</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1048</xmin>
+			<ymin>1193</ymin>
+			<xmax>2061</xmax>
+			<ymax>1933</ymax>
 		</bndbox>
 	</object>
 </annotation>

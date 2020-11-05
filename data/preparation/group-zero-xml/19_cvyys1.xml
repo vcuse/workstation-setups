@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0</folder>
+	<folder>Images</folder>
 	<filename>19_cvyys1.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 0/19_cvyys1.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\19_cvyys1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -213,6 +213,18 @@
 			<ymin>1336</ymin>
 			<xmax>3916</xmax>
 			<ymax>2999</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1172</xmin>
+			<ymin>1155</ymin>
+			<xmax>1764</xmax>
+			<ymax>1533</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0</folder>
+	<folder>Images</folder>
 	<filename>7_gnh5u4.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 0/7_gnh5u4.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\7_gnh5u4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -225,6 +225,30 @@
 			<ymin>1181</ymin>
 			<xmax>3147</xmax>
 			<ymax>1485</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1460</xmin>
+			<ymin>980</ymin>
+			<xmax>1941</xmax>
+			<ymax>1336</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2150</xmin>
+			<ymin>1021</ymin>
+			<xmax>2571</xmax>
+			<ymax>1351</ymax>
 		</bndbox>
 	</object>
 </annotation>

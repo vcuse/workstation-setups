@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2</folder>
+	<folder>Images</folder>
 	<filename>8_gmgfcf.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 2/8_gmgfcf.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 2\Images\8_gmgfcf.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -213,6 +213,30 @@
 			<ymin>1277</ymin>
 			<xmax>1824</xmax>
 			<ymax>1393</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>728</xmin>
+			<ymin>1072</ymin>
+			<xmax>1037</xmax>
+			<ymax>1412</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2661</xmin>
+			<ymin>928</ymin>
+			<xmax>3063</xmax>
+			<ymax>1336</ymax>
 		</bndbox>
 	</object>
 </annotation>

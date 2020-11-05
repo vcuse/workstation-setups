@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0</folder>
+	<folder>Images</folder>
 	<filename>4_64fumg.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 0/4_64fumg.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\4_64fumg.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -261,6 +261,18 @@
 			<ymin>2001</ymin>
 			<xmax>1030</xmax>
 			<ymax>2082</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3574</xmin>
+			<ymin>1575</ymin>
+			<xmax>4032</xmax>
+			<ymax>1967</ymax>
 		</bndbox>
 	</object>
 </annotation>

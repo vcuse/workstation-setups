@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0</folder>
+	<folder>Images</folder>
 	<filename>49_bshzym.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 0/49_bshzym.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\49_bshzym.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -117,6 +117,18 @@
 			<ymin>2189</ymin>
 			<xmax>1309</xmax>
 			<ymax>2393</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1579</xmin>
+			<ymin>1479</ymin>
+			<xmax>2377</xmax>
+			<ymax>2218</ymax>
 		</bndbox>
 	</object>
 </annotation>

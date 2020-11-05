@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1</folder>
+	<folder>Images</folder>
 	<filename>62_bnd6jt.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 1/62_bnd6jt.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 1\Images\62_bnd6jt.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -249,6 +249,18 @@
 			<ymin>178</ymin>
 			<xmax>807</xmax>
 			<ymax>302</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>940</xmin>
+			<ymin>351</ymin>
+			<xmax>1014</xmax>
+			<ymax>467</ymax>
 		</bndbox>
 	</object>
 </annotation>

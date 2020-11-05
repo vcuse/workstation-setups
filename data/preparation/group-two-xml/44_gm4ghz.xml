@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>44_gm4ghz.jpg</filename>
-	<path>C:\Users\krugdl\Documents\Group 2\Group 2 (IMG)\44_gm4ghz.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 2\Images\44_gm4ghz.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -117,6 +117,18 @@
 			<ymin>1765</ymin>
 			<xmax>2436</xmax>
 			<ymax>2072</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1014</xmin>
+			<ymin>1781</ymin>
+			<xmax>1669</xmax>
+			<ymax>2338</ymax>
 		</bndbox>
 	</object>
 </annotation>

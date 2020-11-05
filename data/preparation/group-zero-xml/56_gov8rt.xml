@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0</folder>
+	<folder>Images</folder>
 	<filename>56_gov8rt.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 0/56_gov8rt.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\56_gov8rt.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -153,6 +153,18 @@
 			<ymin>1223</ymin>
 			<xmax>3279</xmax>
 			<ymax>1424</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1198</xmin>
+			<ymin>1053</ymin>
+			<xmax>1782</xmax>
+			<ymax>1491</ymax>
 		</bndbox>
 	</object>
 </annotation>

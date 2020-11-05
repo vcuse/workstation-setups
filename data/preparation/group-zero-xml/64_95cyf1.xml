@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0</folder>
+	<folder>Images</folder>
 	<filename>64_95cyf1.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 0/64_95cyf1.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\64_95cyf1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -93,6 +93,18 @@
 			<ymin>1992</ymin>
 			<xmax>2451</xmax>
 			<ymax>2189</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2127</xmin>
+			<ymin>1516</ymin>
+			<xmax>2573</xmax>
+			<ymax>1921</ymax>
 		</bndbox>
 	</object>
 </annotation>

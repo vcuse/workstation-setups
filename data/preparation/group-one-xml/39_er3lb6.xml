@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>39_er3lb6.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\LabelImg\Group 1 (IMG)\39_er3lb6.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 1\Images\39_er3lb6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -201,6 +201,18 @@
 			<ymin>103</ymin>
 			<xmax>3762</xmax>
 			<ymax>1249</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1855</xmin>
+			<ymin>1765</ymin>
+			<xmax>2217</xmax>
+			<ymax>1978</ymax>
 		</bndbox>
 	</object>
 </annotation>

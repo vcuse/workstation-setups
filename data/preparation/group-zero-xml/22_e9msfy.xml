@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0</folder>
+	<folder>Images</folder>
 	<filename>22_e9msfy.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 0/22_e9msfy.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\22_e9msfy.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -189,6 +189,18 @@
 			<ymin>2679</ymin>
 			<xmax>1647</xmax>
 			<ymax>3023</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>1447</ymin>
+			<xmax>548</xmax>
+			<ymax>2101</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0</folder>
+	<folder>Images</folder>
 	<filename>5_fnwexz.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 0/5_fnwexz.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\5_fnwexz.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -141,6 +141,18 @@
 			<ymin>2098</ymin>
 			<xmax>3024</xmax>
 			<ymax>2903</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>30</xmin>
+			<ymin>569</ymin>
+			<xmax>1103</xmax>
+			<ymax>1474</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0</folder>
+	<folder>Images</folder>
 	<filename>54_78sq3v.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 0/54_78sq3v.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\54_78sq3v.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -213,6 +213,30 @@
 			<ymin>2366</ymin>
 			<xmax>541</xmax>
 			<ymax>2692</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>39</xmin>
+			<ymin>1193</ymin>
+			<xmax>899</xmax>
+			<ymax>1742</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>744</xmin>
+			<ymin>1910</ymin>
+			<xmax>1534</xmax>
+			<ymax>2406</ymax>
 		</bndbox>
 	</object>
 </annotation>

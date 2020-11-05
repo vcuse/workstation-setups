@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2</folder>
+	<folder>Images</folder>
 	<filename>27_gakl34.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 2/27_gakl34.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 2\Images\27_gakl34.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -153,6 +153,18 @@
 			<ymin>312</ymin>
 			<xmax>1326</xmax>
 			<ymax>421</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>214</xmin>
+			<ymin>442</ymin>
+			<xmax>600</xmax>
+			<ymax>766</ymax>
 		</bndbox>
 	</object>
 </annotation>

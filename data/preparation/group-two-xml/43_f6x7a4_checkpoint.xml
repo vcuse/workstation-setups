@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2</folder>
+	<folder>Images</folder>
 	<filename>43_f6x7a4_checkpoint.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 2/43_f6x7a4_checkpoint.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 2\Images\43_f6x7a4_checkpoint.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -201,6 +201,18 @@
 			<ymin>1441</ymin>
 			<xmax>4160</xmax>
 			<ymax>1772</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1850</xmin>
+			<ymin>1925</ymin>
+			<xmax>2617</xmax>
+			<ymax>2484</ymax>
 		</bndbox>
 	</object>
 </annotation>

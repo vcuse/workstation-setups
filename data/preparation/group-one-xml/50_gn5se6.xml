@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>50_gn5se6.jpg</filename>
-	<path>/home/fronchettl/Documents/Group 1 (IMG)/50_gn5se6.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 1\Images\50_gn5se6.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -345,6 +345,18 @@
 			<ymin>1769</ymin>
 			<xmax>3871</xmax>
 			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2568</xmin>
+			<ymin>553</ymin>
+			<xmax>3146</xmax>
+			<ymax>944</ymax>
 		</bndbox>
 	</object>
 </annotation>

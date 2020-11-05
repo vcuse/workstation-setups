@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2</folder>
+	<folder>Images</folder>
 	<filename>41_8nkfs8.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 2/41_8nkfs8.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 2\Images\41_8nkfs8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -177,6 +177,18 @@
 			<ymin>1375</ymin>
 			<xmax>2048</xmax>
 			<ymax>1536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>762</xmin>
+			<ymin>592</ymin>
+			<xmax>1237</xmax>
+			<ymax>879</ymax>
 		</bndbox>
 	</object>
 </annotation>

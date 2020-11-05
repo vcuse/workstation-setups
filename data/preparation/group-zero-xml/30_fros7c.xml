@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0</folder>
+	<folder>Images</folder>
 	<filename>30_fros7c.jpg</filename>
-	<path>/home/fronchettl/Documents/temp/img/Group 0/30_fros7c.jpg</path>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\30_fros7c.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -213,6 +213,30 @@
 			<ymin>1429</ymin>
 			<xmax>1957</xmax>
 			<ymax>1579</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2099</xmin>
+			<ymin>1153</ymin>
+			<xmax>2815</xmax>
+			<ymax>1631</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1110</xmin>
+			<ymin>1047</ymin>
+			<xmax>1696</xmax>
+			<ymax>1455</ymax>
 		</bndbox>
 	</object>
 </annotation>
