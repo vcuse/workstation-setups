@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>75_fyklus.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\75_fyklus.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\75_fyklus.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -177,6 +177,18 @@
 			<ymin>2152</ymin>
 			<xmax>3948</xmax>
 			<ymax>2961</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>458</xmin>
+			<ymin>764</ymin>
+			<xmax>1411</xmax>
+			<ymax>1396</ymax>
 		</bndbox>
 	</object>
 </annotation>

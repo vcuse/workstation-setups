@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>131_fmy1jh.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\131_fmy1jh.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\131_fmy1jh.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -165,6 +165,18 @@
 			<ymin>603</ymin>
 			<xmax>1445</xmax>
 			<ymax>672</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>815</xmin>
+			<ymin>532</ymin>
+			<xmax>1109</xmax>
+			<ymax>782</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>122_ghwm70.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\122_ghwm70.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\122_ghwm70.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -165,6 +165,18 @@
 			<ymin>85</ymin>
 			<xmax>385</xmax>
 			<ymax>336</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>226</xmin>
+			<ymin>4</ymin>
+			<xmax>315</xmax>
+			<ymax>75</ymax>
 		</bndbox>
 	</object>
 </annotation>

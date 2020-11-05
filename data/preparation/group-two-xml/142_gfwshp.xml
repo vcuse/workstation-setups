@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>142_gfwshp.jpg</filename>
-	<path>C:\Users\bakah\Group 2\Group 2 (IMG)\142_gfwshp.jpg</path>
+	<path>E:\Laptops\Susin\Group 2\Images\142_gfwshp.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -213,6 +213,18 @@
 			<ymin>194</ymin>
 			<xmax>236</xmax>
 			<ymax>804</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1319</xmin>
+			<ymin>751</ymin>
+			<xmax>1588</xmax>
+			<ymax>951</ymax>
 		</bndbox>
 	</object>
 </annotation>

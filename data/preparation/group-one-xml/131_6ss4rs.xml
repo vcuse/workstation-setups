@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>131_6ss4rs.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Arquivos UFSC\LabelImg\Group 1 (IMG)\131_6ss4rs.jpg</path>
+	<path>E:\Laptops\Susin\Group 1\Images\131_6ss4rs.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -81,6 +81,18 @@
 			<ymin>2069</ymin>
 			<xmax>4019</xmax>
 			<ymax>2976</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2975</xmin>
+			<ymin>1690</ymin>
+			<xmax>3840</xmax>
+			<ymax>2296</ymax>
 		</bndbox>
 	</object>
 </annotation>

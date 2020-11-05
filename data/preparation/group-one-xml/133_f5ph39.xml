@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>133_f5ph39.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Arquivos UFSC\LabelImg\Group 1 (IMG)\133_f5ph39.jpg</path>
+	<path>E:\Laptops\Susin\Group 1\Images\133_f5ph39.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -153,6 +153,18 @@
 			<ymin>753</ymin>
 			<xmax>1421</xmax>
 			<ymax>1342</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2563</xmin>
+			<ymin>808</ymin>
+			<xmax>3322</xmax>
+			<ymax>1322</ymax>
 		</bndbox>
 	</object>
 </annotation>

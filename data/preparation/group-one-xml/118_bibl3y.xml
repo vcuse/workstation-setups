@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>118_bibl3y.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Arquivos UFSC\LabelImg\Group 1 (IMG)\118_bibl3y.jpg</path>
+	<path>E:\Laptops\Susin\Group 1\Images\118_bibl3y.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -177,6 +177,18 @@
 			<ymin>1601</ymin>
 			<xmax>1123</xmax>
 			<ymax>2404</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2025</xmin>
+			<ymin>1280</ymin>
+			<xmax>2510</xmax>
+			<ymax>1700</ymax>
 		</bndbox>
 	</object>
 </annotation>

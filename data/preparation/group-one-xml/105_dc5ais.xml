@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>105_dc5ais.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Arquivos UFSC\LabelImg\Group 1 (IMG)\105_dc5ais.jpg</path>
+	<path>E:\Laptops\Susin\Group 1\Images\105_dc5ais.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -141,6 +141,18 @@
 			<ymin>2253</ymin>
 			<xmax>2969</xmax>
 			<ymax>2496</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3096</xmin>
+			<ymin>1306</ymin>
+			<xmax>4254</xmax>
+			<ymax>2056</ymax>
 		</bndbox>
 	</object>
 </annotation>

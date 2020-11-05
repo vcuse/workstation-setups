@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>122_gljyku.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Arquivos UFSC\LabelImg\Group 1 (IMG)\122_gljyku.jpg</path>
+	<path>E:\Laptops\Susin\Group 1\Images\122_gljyku.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -165,6 +165,18 @@
 			<ymin>1797</ymin>
 			<xmax>3642</xmax>
 			<ymax>2754</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>45</xmin>
+			<ymin>913</ymin>
+			<xmax>1054</xmax>
+			<ymax>1785</ymax>
 		</bndbox>
 	</object>
 </annotation>

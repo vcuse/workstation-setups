@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>90_ghmekq.jpg</filename>
-	<path>C:\Users\bakah\Group 2\Group 2 (IMG)\90_ghmekq.jpg</path>
+	<path>E:\Laptops\Susin\Group 2\Images\90_ghmekq.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -105,6 +105,18 @@
 			<ymin>2316</ymin>
 			<xmax>4000</xmax>
 			<ymax>2803</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1312</xmin>
+			<ymin>594</ymin>
+			<xmax>2499</xmax>
+			<ymax>1397</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>103_fjm6pu.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\103_fjm6pu.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\103_fjm6pu.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -237,6 +237,18 @@
 			<ymin>612</ymin>
 			<xmax>1512</xmax>
 			<ymax>1027</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1697</xmin>
+			<ymin>262</ymin>
+			<xmax>2383</xmax>
+			<ymax>725</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>109_4ep7nm.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\109_4ep7nm.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\109_4ep7nm.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -141,6 +141,18 @@
 			<ymin>842</ymin>
 			<xmax>692</xmax>
 			<ymax>1351</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1894</xmin>
+			<ymin>779</ymin>
+			<xmax>2120</xmax>
+			<ymax>947</ymax>
 		</bndbox>
 	</object>
 </annotation>

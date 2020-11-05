@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>96_bzpi9j.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\96_bzpi9j.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\96_bzpi9j.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -117,6 +117,18 @@
 			<ymin>1479</ymin>
 			<xmax>4608</xmax>
 			<ymax>2560</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2064</xmin>
+			<ymin>1534</ymin>
+			<xmax>2796</xmax>
+			<ymax>1945</ymax>
 		</bndbox>
 	</object>
 </annotation>

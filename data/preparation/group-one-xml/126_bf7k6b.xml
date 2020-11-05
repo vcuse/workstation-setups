@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>126_bf7k6b.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Arquivos UFSC\LabelImg\Group 1 (IMG)\126_bf7k6b.jpg</path>
+	<path>E:\Laptops\Susin\Group 1\Images\126_bf7k6b.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -129,6 +129,18 @@
 			<ymin>1218</ymin>
 			<xmax>4032</xmax>
 			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>96</xmin>
+			<ymin>1278</ymin>
+			<xmax>812</xmax>
+			<ymax>1793</ymax>
 		</bndbox>
 	</object>
 </annotation>

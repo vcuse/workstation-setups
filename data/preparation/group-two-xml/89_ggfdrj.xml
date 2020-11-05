@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>89_ggfdrj.jpg</filename>
-	<path>C:\Users\bakah\Group 2\Group 2 (IMG)\89_ggfdrj.jpg</path>
+	<path>E:\Laptops\Susin\Group 2\Images\89_ggfdrj.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -93,6 +93,18 @@
 			<ymin>1380</ymin>
 			<xmax>1019</xmax>
 			<ymax>1823</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2537</xmin>
+			<ymin>724</ymin>
+			<xmax>3768</xmax>
+			<ymax>1487</ymax>
 		</bndbox>
 	</object>
 </annotation>

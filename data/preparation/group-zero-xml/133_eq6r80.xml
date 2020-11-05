@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>133_eq6r80.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\133_eq6r80.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\133_eq6r80.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -237,6 +237,18 @@
 			<ymin>393</ymin>
 			<xmax>1713</xmax>
 			<ymax>523</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>1193</ymin>
+			<xmax>784</xmax>
+			<ymax>1790</ymax>
 		</bndbox>
 	</object>
 </annotation>

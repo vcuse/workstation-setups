@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>70_a4od00.jpg</filename>
-	<path>/home/fronchettl/Documents/Group 1 (IMG)/70_a4od00.jpg</path>
+	<path>E:\Laptops\Susin\Group 1\Images\70_a4od00.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -153,6 +153,18 @@
 			<ymin>417</ymin>
 			<xmax>4393</xmax>
 			<ymax>2592</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>506</xmin>
+			<ymin>70</ymin>
+			<xmax>1306</xmax>
+			<ymax>883</ymax>
 		</bndbox>
 	</object>
 </annotation>

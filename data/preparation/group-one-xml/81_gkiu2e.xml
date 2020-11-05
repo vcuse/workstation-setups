@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>81_gkiu2e.jpg</filename>
-	<path>/home/fronchettl/Documents/Group 1 (IMG)/81_gkiu2e.jpg</path>
+	<path>E:\Laptops\Susin\Group 1\Images\81_gkiu2e.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -201,6 +201,30 @@
 			<ymin>708</ymin>
 			<xmax>3686</xmax>
 			<ymax>1696</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1136</xmin>
+			<ymin>913</ymin>
+			<xmax>1388</xmax>
+			<ymax>1033</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>739</xmin>
+			<ymin>945</ymin>
+			<xmax>1054</xmax>
+			<ymax>1157</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>86_gikvx1.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\86_gikvx1.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\86_gikvx1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -273,6 +273,30 @@
 			<ymin>970</ymin>
 			<xmax>1805</xmax>
 			<ymax>1070</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>688</xmin>
+			<ymin>882</ymin>
+			<xmax>1066</xmax>
+			<ymax>1120</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1905</xmin>
+			<ymin>742</ymin>
+			<xmax>2193</xmax>
+			<ymax>934</ymax>
 		</bndbox>
 	</object>
 </annotation>

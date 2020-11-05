@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>97_98jt58.jpg</filename>
-	<path>C:\Users\bakah\Group 2\Group 2 (IMG)\97_98jt58.jpg</path>
+	<path>E:\Laptops\Susin\Group 2\Images\97_98jt58.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -165,6 +165,18 @@
 			<ymin>1165</ymin>
 			<xmax>1829</xmax>
 			<ymax>1491</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>153</ymin>
+			<xmax>473</xmax>
+			<ymax>519</ymax>
 		</bndbox>
 	</object>
 </annotation>

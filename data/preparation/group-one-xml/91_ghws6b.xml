@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>91_ghws6b.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Arquivos UFSC\LabelImg\Group 1 (IMG)\91_ghws6b.jpg</path>
+	<path>E:\Laptops\Susin\Group 1\Images\91_ghws6b.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -201,6 +201,18 @@
 			<ymin>93</ymin>
 			<xmax>2119</xmax>
 			<ymax>964</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3071</xmin>
+			<ymin>1553</ymin>
+			<xmax>3925</xmax>
+			<ymax>2318</ymax>
 		</bndbox>
 	</object>
 </annotation>

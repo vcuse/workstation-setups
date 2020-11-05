@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>116_9ucbp5_checkpoint.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Arquivos UFSC\LabelImg\Group 1 (IMG)\116_9ucbp5_checkpoint.jpg</path>
+	<path>E:\Laptops\Susin\Group 1\Images\116_9ucbp5_checkpoint.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -93,6 +93,18 @@
 			<ymin>1614</ymin>
 			<xmax>1115</xmax>
 			<ymax>1885</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>294</xmin>
+			<ymin>1439</ymin>
+			<xmax>658</xmax>
+			<ymax>1686</ymax>
 		</bndbox>
 	</object>
 </annotation>

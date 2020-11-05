@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>144_ft01sb_checkpoint.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\144_ft01sb_checkpoint.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\144_ft01sb_checkpoint.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -141,6 +141,18 @@
 			<ymin>2765</ymin>
 			<xmax>908</xmax>
 			<ymax>2965</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2147</xmin>
+			<ymin>1713</ymin>
+			<xmax>2803</xmax>
+			<ymax>2124</ymax>
 		</bndbox>
 	</object>
 </annotation>

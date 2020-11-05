@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>85_66ohco.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\85_66ohco.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\85_66ohco.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -177,6 +177,18 @@
 			<ymin>721</ymin>
 			<xmax>257</xmax>
 			<ymax>792</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>199</xmin>
+			<ymin>648</ymin>
+			<xmax>494</xmax>
+			<ymax>930</ymax>
 		</bndbox>
 	</object>
 </annotation>

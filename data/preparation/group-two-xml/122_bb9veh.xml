@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>122_bb9veh.jpg</filename>
-	<path>C:\Users\bakah\Group 2\Group 2 (IMG)\122_bb9veh.jpg</path>
+	<path>E:\Laptops\Susin\Group 2\Images\122_bb9veh.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -189,6 +189,18 @@
 			<ymin>2416</ymin>
 			<xmax>1875</xmax>
 			<ymax>2490</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1490</xmin>
+			<ymin>1694</ymin>
+			<xmax>1761</xmax>
+			<ymax>2007</ymax>
 		</bndbox>
 	</object>
 </annotation>

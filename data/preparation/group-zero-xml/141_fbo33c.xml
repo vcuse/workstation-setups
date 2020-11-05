@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>141_fbo33c.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\141_fbo33c.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\141_fbo33c.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -201,6 +201,18 @@
 			<ymin>979</ymin>
 			<xmax>274</xmax>
 			<ymax>998</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1210</xmin>
+			<ymin>658</ymin>
+			<xmax>1548</xmax>
+			<ymax>889</ymax>
 		</bndbox>
 	</object>
 </annotation>

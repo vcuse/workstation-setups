@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>123_fw6pyo.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\123_fw6pyo.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\123_fw6pyo.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -201,6 +201,18 @@
 			<ymin>2364</ymin>
 			<xmax>492</xmax>
 			<ymax>2633</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1295</xmin>
+			<ymin>1833</ymin>
+			<xmax>1915</xmax>
+			<ymax>2253</ymax>
 		</bndbox>
 	</object>
 </annotation>

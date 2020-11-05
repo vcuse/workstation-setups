@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 0 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>139_gk9ffj.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 0\Group 0 (IMG)\139_gk9ffj.jpg</path>
+	<path>E:\Laptops\Susin\Group 0\Images\139_gk9ffj.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -129,6 +129,18 @@
 			<ymin>1758</ymin>
 			<xmax>4007</xmax>
 			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1203</xmin>
+			<ymin>1056</ymin>
+			<xmax>2440</xmax>
+			<ymax>1843</ymax>
 		</bndbox>
 	</object>
 </annotation>

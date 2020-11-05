@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 2 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>76_gi9zf2.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Group 2\Group 2 (IMG)\76_gi9zf2.jpg</path>
+	<path>E:\Laptops\Susin\Group 2\Images\76_gi9zf2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -225,6 +225,18 @@
 			<ymin>3680</ymin>
 			<xmax>3388</xmax>
 			<ymax>5796</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3016</xmin>
+			<ymin>2139</ymin>
+			<xmax>4202</xmax>
+			<ymax>2839</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Group 1 (IMG)</folder>
+	<folder>Images</folder>
 	<filename>140_6y0535.jpg</filename>
-	<path>C:\Users\Luiz H. Susin\Desktop\Arquivos UFSC\LabelImg\Group 1 (IMG)\140_6y0535.jpg</path>
+	<path>E:\Laptops\Susin\Group 1\Images\140_6y0535.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -81,6 +81,18 @@
 			<ymin>857</ymin>
 			<xmax>974</xmax>
 			<ymax>1674</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>875</xmin>
+			<ymin>1228</ymin>
+			<xmax>1893</xmax>
+			<ymax>2009</ymax>
 		</bndbox>
 	</object>
 </annotation>
