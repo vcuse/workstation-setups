@@ -55,6 +55,7 @@ Laptop (OSX)
 Laptop (Windows)
 Laptop Stand
 Mini Fridge
+Monitor (Laptop)
 Monitor (Landscape)
 Monitor (Portrait)
 Monitor (iMac)

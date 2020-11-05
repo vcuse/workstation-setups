@@ -1,89 +1,90 @@
-Desk (Standing)
-Desk (Generic)
+Acoustic Foam
+Airpods (Apple)
+Airpods (Generic)
+Airpods (Samsung)
+Back-UPS
+Book
+Cellphone
+Cellphone Charger (Generic)
+Cellphone Charger (Wireless)
 Chair (Gaming)
 Chair (Generic)
-Lamp (Desk)
-Lamp (Floor)
-Fan (Desk)
-Fan (Floor)
-Decoration (Clock)
-Decoration (Watch)
-Decoration (Rubric's Cube)
-Decoration (Picture)
+Cup
 Decoration (Candle)
-Decoration (Miniature)
-Decoration (Plant)
+Decoration (Clock)
 Decoration (Generic)
-Trash Can
-Storage Drawer
-Footrest
-Musical Instrument (Guitar)
-Musical Instrument (Electric Guitar)
-Musical Instrument (Keyboard/Piano)
-Musical Instrument (Generic)
-Mini Fridge
-Acoustic Foam
-Laptop (Linux)
-Laptop (Windows)
-Laptop (OSX)
-Laptop (Generic)
-Laptop Stand
+Decoration (Miniature)
+Decoration (Picture)
+Decoration (Plant)
+Decoration (Rubric's Cube)
+Decoration (Watch)
+Desk (Generic)
+Desk (Standing)
+Desktop (Generic)
 Desktop (Linux)
 Desktop (OSX)
 Desktop (Windows)
-Desktop (Generic)
-Tablet (iPad)
-Tablet (Android)
-Tablet (Windows)
-Tablet (Generic)
-Monitor (iMac)
-Monitor (Landscape)
-Monitor (Portrait)
-Monitor Arm
-Printer
+Drawing Pad
+Drink Coaster
+Earphones
+Earphones (with Microphone)
+External Hard Drive
+External Microphone (Generic)
+External Microphone (with Boom Arm)
+External Numpad
+External Sound Card (Pre-amplifier)
+External Speakers (Generic)
+External Speakers (Subwoofers)
+External Webcam
+Fan (Desk)
+Fan (Floor)
+Footrest
+Gaming Console
+Gaming Controller
+Headphones
+Headphones (with Microphone)
+IoT Devices (Raspberry, Arduino, etc)
 Keyboard (Ergonomic)
 Keyboard (Gaming)
 Keyboard (Generic)
-Mouse (Magic Trackpad)
-Mouse (Gaming)
+Lamp (Desk)
+Lamp (Floor)
+Laptop (Generic)
+Laptop (Linux)
+Laptop (OSX)
+Laptop (Windows)
+Laptop Stand
+Mini Fridge
+Monitor (Laptop)
+Monitor (Landscape)
+Monitor (Portrait)
+Monitor (iMac)
+Monitor Arm
 Mouse (Ergonomic)
+Mouse (Gaming)
 Mouse (Generic)
+Mouse (Magic Trackpad)
 Mousepad (Gaming)
 Mousepad (Generic)
-Drawing Pad
-External Numpad
-Stream Deck
-Airpods (Apple)
-Airpods (Samsung)
-Airpods (Generic)
-Earphones (with Microphone)
-Earphones
-Headphones (with Microphone)
-Headphones
-External Hard Drive
-External Webcam
-External Speakers (Subwoofers)
-External Speakers (Generic)
-External Microphone (with Boom Arm)
-External Microphone (Generic)
-External Sound Card (Pre-amplifier)
-USB Hub
-Power Strip
-Router
-Back-UPS
-Telephone
-Cellphone
-Cellphone Charger (Wireless)
-Cellphone Charger (Generic)
-IoT Devices (Raspberry, Arduino, etc)
-Gaming Console
-Gaming Controller
-Scientific Calculator
-Phone Holder
 Mug
-Water Bottle
-Cup
-Drink Coaster
-Book
-Post-it Note
+Musical Instrument (Electric Guitar)
+Musical Instrument (Generic)
+Musical Instrument (Guitar)
+Musical Instrument (Keyboard/Piano)
 Notebook
+Phone Holder
+Post-it Note
+Power Strip
+Printer
+Router
+Scientific Calculator
+Storage Drawer
+Stream Deck
+Tablet (Android)
+Tablet (Generic)
+Tablet (Windows)
+Tablet (iPad)
+Telephone
+Trash Can
+USB Hub
+Water Bottle
