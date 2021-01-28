@@ -1,0 +1,158 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>105_dc5ais.jpg</filename>
+	<path>E:\Laptops\Susin\Group 1\Images\105_dc5ais.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2443</ymin>
+			<xmax>4608</xmax>
+			<ymax>3439</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Speakers (Subwoofers)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>659</xmin>
+			<ymin>1801</ymin>
+			<xmax>1306</xmax>
+			<ymax>2701</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1496</xmin>
+			<ymin>1343</ymin>
+			<xmax>3012</xmax>
+			<ymax>2296</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2917</xmin>
+			<ymin>1306</ymin>
+			<xmax>4285</xmax>
+			<ymax>2617</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop Stand</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2996</xmin>
+			<ymin>1996</ymin>
+			<xmax>4280</xmax>
+			<ymax>2790</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3585</xmin>
+			<ymin>2769</ymin>
+			<xmax>3959</xmax>
+			<ymax>3085</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1264</xmin>
+			<ymin>2701</ymin>
+			<xmax>3380</xmax>
+			<ymax>3196</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>43</xmin>
+			<ymin>2669</ymin>
+			<xmax>4608</xmax>
+			<ymax>3369</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gaming Controller</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2038</xmin>
+			<ymin>2238</ymin>
+			<xmax>2538</xmax>
+			<ymax>2564</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Speakers (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1501</xmin>
+			<ymin>2290</ymin>
+			<xmax>1964</xmax>
+			<ymax>2522</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>External Speakers (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2554</xmin>
+			<ymin>2253</ymin>
+			<xmax>2969</xmax>
+			<ymax>2496</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3096</xmin>
+			<ymin>1306</ymin>
+			<xmax>4254</xmax>
+			<ymax>2056</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,110 @@
+<annotation>
+	<folder>Group 1 (IMG)</folder>
+	<filename>76_ffo9iu.jpg</filename>
+	<path>/home/fronchettl/Documents/Group 1 (IMG)/76_ffo9iu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>147</xmin>
+			<ymin>851</ymin>
+			<xmax>2039</xmax>
+			<ymax>2059</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2020</xmin>
+			<ymin>971</ymin>
+			<xmax>3981</xmax>
+			<ymax>2198</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Ergonomic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>569</xmin>
+			<ymin>2166</ymin>
+			<xmax>2424</xmax>
+			<ymax>2736</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Ergonomic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2495</xmin>
+			<ymin>2407</ymin>
+			<xmax>2747</xmax>
+			<ymax>2633</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Headphones</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2592</xmin>
+			<ymin>2100</ymin>
+			<xmax>3165</xmax>
+			<ymax>2396</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mug</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3303</xmin>
+			<ymin>2243</ymin>
+			<xmax>3737</xmax>
+			<ymax>2638</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2043</ymin>
+			<xmax>780</xmax>
+			<ymax>2510</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1</xmin>
+			<ymin>2215</ymin>
+			<xmax>4032</xmax>
+			<ymax>3024</ymax>
+		</bndbox>
+	</object>
+</annotation>

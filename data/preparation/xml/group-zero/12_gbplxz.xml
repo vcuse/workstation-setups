@@ -1,0 +1,50 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>12_gbplxz.jpg</filename>
+	<path>C:\Users\fronchettl\Downloads\Felipe\Felipe\Group 0\Images\12_gbplxz.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3024</width>
+		<height>4032</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>251</xmin>
+			<ymin>1273</ymin>
+			<xmax>1499</xmax>
+			<ymax>2082</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>916</xmin>
+			<ymin>1616</ymin>
+			<xmax>3024</xmax>
+			<ymax>4032</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1399</xmin>
+			<ymin>1630</ymin>
+			<xmax>2943</xmax>
+			<ymax>2670</ymax>
+		</bndbox>
+	</object>
+</annotation>

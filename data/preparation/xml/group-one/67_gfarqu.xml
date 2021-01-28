@@ -1,0 +1,62 @@
+<annotation>
+	<folder>Group 1 (IMG)</folder>
+	<filename>67_gfarqu.jpg</filename>
+	<path>/home/fronchettl/Documents/Group 1 (IMG)/67_gfarqu.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>3207</width>
+		<height>3023</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Keyboard (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1915</xmin>
+			<ymin>1778</ymin>
+			<xmax>2403</xmax>
+			<ymax>1956</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1743</xmin>
+			<ymin>1757</ymin>
+			<xmax>1864</xmax>
+			<ymax>1812</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Water Bottle</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2711</xmin>
+			<ymin>1764</ymin>
+			<xmax>2820</xmax>
+			<ymax>2051</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desktop (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2338</xmin>
+			<ymin>1279</ymin>
+			<xmax>2684</xmax>
+			<ymax>1495</ymax>
+		</bndbox>
+	</object>
+</annotation>

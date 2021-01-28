@@ -1,0 +1,98 @@
+<annotation>
+	<folder>Group 2 (IMG)</folder>
+	<filename>69_g6nvll.jpg</filename>
+	<path>C:\Users\krugdl\Documents\Group 2\Group 2 (IMG)\69_g6nvll.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4608</width>
+		<height>3456</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1878</xmin>
+			<ymin>807</ymin>
+			<xmax>3282</xmax>
+			<ymax>1591</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1924</xmin>
+			<ymin>1722</ymin>
+			<xmax>2801</xmax>
+			<ymax>1918</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3028</xmin>
+			<ymin>1711</ymin>
+			<xmax>3290</xmax>
+			<ymax>1888</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mousepad (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2813</xmin>
+			<ymin>1745</ymin>
+			<xmax>3528</xmax>
+			<ymax>2003</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desktop (Linux)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3144</xmin>
+			<ymin>2334</ymin>
+			<xmax>4440</xmax>
+			<ymax>3307</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1563</xmin>
+			<ymin>1657</ymin>
+			<xmax>4113</xmax>
+			<ymax>2941</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Power Strip</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3305</xmin>
+			<ymin>1384</ymin>
+			<xmax>3709</xmax>
+			<ymax>1658</ymax>
+		</bndbox>
+	</object>
+</annotation>

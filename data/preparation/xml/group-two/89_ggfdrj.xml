@@ -1,0 +1,110 @@
+<annotation>
+	<folder>Images</folder>
+	<filename>89_ggfdrj.jpg</filename>
+	<path>E:\Laptops\Susin\Group 2\Images\89_ggfdrj.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>4032</width>
+		<height>3024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Desk (Generic)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>20</xmin>
+			<ymin>1652</ymin>
+			<xmax>4019</xmax>
+			<ymax>3008</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Keyboard (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>56</xmin>
+			<ymin>1978</ymin>
+			<xmax>2625</xmax>
+			<ymax>2406</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Scientific Calculator</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2988</xmin>
+			<ymin>2714</ymin>
+			<xmax>3619</xmax>
+			<ymax>2839</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Laptop (Windows)</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2464</xmin>
+			<ymin>670</ymin>
+			<xmax>4032</xmax>
+			<ymax>1873</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Mouse (Gaming)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>3131</xmin>
+			<ymin>2021</ymin>
+			<xmax>3682</xmax>
+			<ymax>2339</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Landscape)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>879</xmin>
+			<ymin>574</ymin>
+			<xmax>2406</xmax>
+			<ymax>1493</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Gaming Console</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>144</xmin>
+			<ymin>1380</ymin>
+			<xmax>1019</xmax>
+			<ymax>1823</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Monitor (Laptop)</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>2537</xmin>
+			<ymin>724</ymin>
+			<xmax>3768</xmax>
+			<ymax>1487</ymax>
+		</bndbox>
+	</object>
+</annotation>
