@@ -4,16 +4,22 @@ import shutil
 
 
 def main():
-    less_equal_threshold = True
-    threshold = 1
+    equal_threshold = False
+    less_equal_threshold = False
+    threshold = 3
 
     g0_files = sorted(os.listdir("Group 0 (XML)"), key=lambda s: int(s.split('_')[0]))
     g1_files = sorted(os.listdir("Group 1 (XML)"), key=lambda s: int(s.split('_')[0]))
     g2_files = sorted(os.listdir("Group 2 (XML)"), key=lambda s: int(s.split('_')[0]))
 
-    os.makedirs(os.path.dirname("E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
-                                str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/"),
-                exist_ok=True)
+    if not equal_threshold:
+        os.makedirs(os.path.dirname("E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
+                                    str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/"),
+                    exist_ok=True)
+    else:
+        os.makedirs(os.path.dirname("E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
+                                    str(threshold) + "/"),
+                    exist_ok=True)
 
     print("Group 0:")
 
@@ -28,19 +34,26 @@ def main():
 
             if objname.split(" (")[0] == "Monitor":
                 counter += 1
-
-        if less_equal_threshold:
-            if counter <= threshold:
-                print("%s" % f)
-                shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 0/" + f.replace("xml", "jpg"),
-                             "E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
-                             str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/")
+        
+        if not equal_threshold:
+            if less_equal_threshold:
+                if counter <= threshold:
+                    print("%s" % f)
+                    shutil.copy2("E:/Github/Research VCU/workstations/data/images/group-zero-images/" + f.replace("xml", "jpg"),
+                                 "E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
+                                 str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/")
+            else:
+                if counter >= threshold:
+                    print("%s" % f)
+                    shutil.copy2("E:/Github/Research VCU/workstations/data/images/group-zero-images/" + f.replace("xml", "jpg"),
+                                 "E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
+                                 str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/")
         else:
-            if counter >= threshold:
+            if counter == threshold:
                 print("%s" % f)
-                shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 0/" + f.replace("xml", "jpg"),
+                shutil.copy2("E:/Github/Research VCU/workstations/data/images/group-zero-images/" + f.replace("xml", "jpg"),
                              "E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
-                             str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/")
+                             str(threshold) + "/")
 
     print("Group 1:")
 
@@ -56,18 +69,25 @@ def main():
             if objname.split(" (")[0] == "Monitor":
                 counter += 1
 
-        if less_equal_threshold:
-            if counter <= threshold:
-                print("%s" % f)
-                shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 1/" + f.replace("xml", "jpg"),
-                             "E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
-                             str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/")
+        if not equal_threshold:
+            if less_equal_threshold:
+                if counter <= threshold:
+                    print("%s" % f)
+                    shutil.copy2("E:/Github/Research VCU/workstations/data/images/group-one-images/" + f.replace("xml", "jpg"),
+                                 "E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
+                                 str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/")
+            else:
+                if counter >= threshold:
+                    print("%s" % f)
+                    shutil.copy2("E:/Github/Research VCU/workstations/data/images/group-one-images/" + f.replace("xml", "jpg"),
+                                 "E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
+                                 str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/")
         else:
-            if counter >= threshold:
+            if counter == threshold:
                 print("%s" % f)
-                shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 1/" + f.replace("xml", "jpg"),
+                shutil.copy2("E:/Github/Research VCU/workstations/data/images/group-one-images/" + f.replace("xml", "jpg"),
                              "E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
-                             str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/")
+                             str(threshold) + "/")
 
     print("Group 2:")
 
@@ -83,18 +103,25 @@ def main():
             if objname.split(" (")[0] == "Monitor":
                 counter += 1
 
-        if less_equal_threshold:
-            if counter <= threshold:
-                print("%s" % f)
-                shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 2/" + f.replace("xml", "jpg"),
-                             "E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
-                             str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/")
+        if not equal_threshold:
+            if less_equal_threshold:
+                if counter <= threshold:
+                    print("%s" % f)
+                    shutil.copy2("E:/Github/Research VCU/workstations/data/images/group-two-images/" + f.replace("xml", "jpg"),
+                                 "E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
+                                 str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/")
+            else:
+                if counter >= threshold:
+                    print("%s" % f)
+                    shutil.copy2("E:/Github/Research VCU/workstations/data/images/group-two-images/" + f.replace("xml", "jpg"),
+                                 "E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
+                                 str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/")
         else:
-            if counter >= threshold:
+            if counter == threshold:
                 print("%s" % f)
-                shutil.copy2("E:/Github/Research VCU/workstations/data/images/Group 2/" + f.replace("xml", "jpg"),
+                shutil.copy2("E:/Github/Research VCU/workstations/data/images/group-two-images/" + f.replace("xml", "jpg"),
                              "E:/Github/Research VCU/workstations/data/images/analysed/Monitor/Threshold " +
-                             str(threshold) + (" or more" if not less_equal_threshold else " or less") + "/")
+                             str(threshold) + "/")
 
 
 if __name__ == "__main__":
