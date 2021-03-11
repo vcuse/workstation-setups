@@ -1,10 +1,21 @@
-# About
-title: Workstations
+title: Exploring Software Developers' Home Workstations
 email: fronchettl@vcu.edu
-description: "Understanding what is important to have on a developer workstation."
-baseurl: "/reddit"
-url: "https://fronchetti.org"
-github_username:  fronchetti
+description: "This is a replication package provided by VCU Software Engineering."
+github_username: fronchetti
+repository: https://github.com/vcuse/workstations
+
+collections:
+  stages:
+    output: true
+    permalink: /:collection/:name
+    order:
+      - overview.md
+      - stage-one.md
+      - stage-two.md
+      - stage-three.md
+  tutorial:
+    output: true
+    permalink: /:collection/:name
 
 plugins:
-  - jekyll-last-modified-at
+  - jekyll-toc

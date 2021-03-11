@@ -3,25 +3,26 @@
 <head>
   <meta charset="utf-8">
   <title>{{ page.title }}</title>
-  <meta name="description" content="Workstation Guideline">
+  <meta name="description" content="This is the replication package of: {{ site.title }}.">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <meta name="author" content="Felipe Fronchetti">
-  <link rel="stylesheet" href="css/default.css" />
+  <meta name="author" content="VCU Software Engineering">
+  <link rel="stylesheet" href="{{ '/css/default.css' | prepend: site.url }}"/>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
 </head>
 <body>
-  <div class="header">
-    <h1>{{ page.title }}</h1>
+  <!-- Header -->
+  <div class="container">
+    <!-- Table of Sections -->
+    {% include sidebar.html %}
+    <!-- Content -->
+    {% include content.html %}
+    <!-- Table of Contents -->
+    {% include toc.html %}
+    <script>
+      feather.replace({width: '1em', height: '1em'})
+    </script>
   </div>
-  <div class="main">
-    <div class="sidebar">
-      {% include sidebar.html %}
-    </div>
-    <div class="content">
-      {{ content }}
-    </div>
-  </div>
-  <div class="footer">
-    {% include footer.html %}
-  </div>
+
 </body>
 </html>

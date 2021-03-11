@@ -1,47 +1,94 @@
-@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:ital@0;1&family=IBM+Plex+Sans+Condensed:ital@0;1&family=IBM+Plex+Sans:ital,wght@0,100;0,400;0,700;1,100;1,400;1,700&family=IBM+Plex+Serif:ital@0;1&display=swap');
-
-* {
-    box-sizing: border-box;
-}
-
 body {
-    margin: 0;
-    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
-    background-color: lightgray;
+    font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
+    background-color: rgb(240, 240, 240);
+    padding: 0px;
+    margin: 0px;
 }
 
-ul {
-    list-style-type: square;
+.container {
+    align-items: stretch;
+    margin-bottom: 20px;
+    min-height: 100vh;
+    display: flex;
+    width: 100%;
 }
 
-a {
+.content {
+    box-shadow: 0 0 5px #ccc;
+    background-color: white;
+    border-radius: 1px;
+    text-align: justify;
+    margin-left: 50px;
+    margin-top: 50px;
+    padding-bottom: 20px;
+    padding-right: 40px;
+    padding-left: 40px;
+    padding-top: 20px;
+    width: 60%;
+}
+
+.sidebar, .toc {
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 20%;
+}
+
+.sidebar ul, .toc ul {
+    list-style: none;
+    font-size: 15px;
+    padding-left: 0px;
+}
+
+.sidebar li, .toc li {
+    padding-bottom: 10px;
+}
+
+.sidebar a {
+    color: rgb(51, 51, 51);
     text-decoration: none;
-    word-wrap: break-word;
-    overflow-wrap: break-word;
-    color: rgb(204, 141, 4);
 }
 
-a:hover {
-    color: rgb(126, 126, 126);
+.sidebar a:hover {
+    color: rgb(125, 125, 125);
 }
+
+.sticky-container {
+    padding-top: 77px;
+    position: sticky;
+    top: 0;
+}
+
+.visit-the-repository {
+    display: flex;
+    align-items: center;   
+}
+
+.visit-the-repository a {
+    padding-left: 5px;
+}
+
+/* The styles below are mainly used but
+   not restricted to content.html */
 
 table {
-    margin-left: auto;
-    margin-right: auto;
-    word-break: break-word;
     border-collapse: collapse;
+    word-break: break-word;
+    margin-right: auto;
+    margin-left: auto;
 }
 
 th, td {
-    padding: 10px;
     border: 1px solid rgb(0, 0, 0);
+    padding: 10px;
 }
 
 img {
-    width: 60%;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    width: 100%;
+}
+
+hr {
+    border: 0;
+    border-top: 1px solid lightgray;
 }
 
 code {
@@ -50,77 +97,34 @@ code {
     background-color: rgb(236, 236, 236);
 }
 
-.header {
-    width: 100%;
-    float: left;
-    text-align: center;
-    background-color: rgb(255, 179, 0);
+a {
+    color: rgb(0, 123, 194);
+    text-decoration: none;
 }
 
-.main {
-    width: 100%;
-    float: left;
-    display: flex;
-    background-color: rgb(248, 248, 248);
+a:hover {
+    color: rgb(125, 125, 125);
 }
 
-.sidebar {
-    width: 20%;
-    float: left;
-    padding-left: 1%;
-    padding-right: 1%;
-    background-color: rgb(236, 236, 236);
-}
+/* Specifications to guarantee responsiveness */
 
-.sidebar ul {
-    padding: 0;
-    list-style-type: none;
-}
-
-.sidebar li {
-    margin-top: 2%;
-}
-
-.sidebar a {
-    color: rgb(0, 0, 0);
-}
-
-.sidebar a:hover {
-    color: rgb(126, 126, 126);
-}
-
-.content {
-    width: 80%;
-    float: left;
-    padding-left: 2%;
-    padding-right: 2%;
-    text-align: justify;
-}
-
-.footer {
-    width: 100%;
-    float: left;
-    color: rgb(255, 255, 255);
-    background-color: rgb(0, 0, 0);
-}
-
-/* Mobile */
-@media only screen and (max-width:860px) {
-    .main {
+@media screen and (max-width: 1200px) {
+    .container {
         flex-wrap: wrap;
+        margin: 0px;
     }
-    .sidebar, .content {
-      width: 100%;
-   }
-}
 
-/* When printing the webpage, the sidebar is hidden */
-@media print {
-    .content {
+    .content, .sidebar {
+        padding-left: 20px;
+        padding-right: 20px;
         width: 100%;
     }
-    .sidebar {
-       width: 0;
-       visibility: hidden;
+
+    .table-of-sections {
+        position: relative;
     }
- }
+
+    .table-of-contents {
+        display: none;
+    }
+}
