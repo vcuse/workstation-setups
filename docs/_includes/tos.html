@@ -1,0 +1,31 @@
+<div class="sidebar">
+   <h4>{{ site.title }}</h4>
+   <hr>
+   {% for collection in site.collections %}
+   {% assign name = collection.label %}
+   <!-- We are not interested in the
+      default posts collection -->
+      {% if name != "posts" %}
+      <div class="section">
+         <ul>
+            <p><b>{{ name | capitalize }}</b></p>
+            {% for item in site.[name] %}
+            <li>
+               <a href="{{ item.url }}">{{ item.title }}</a>
+            </li>
+            {% endfor %}
+         </ul>
+      </div>
+      {% endif %}
+      {% endfor %}
+      <hr>
+      <div class="get-in-touch">
+         <i data-feather="mail"></i> 
+         <a href="mailto: {{ site.contact }}">Send a message</a>
+      </div>
+      <div class="get-in-touch">
+         <i data-feather="github"></i> 
+         <a href="{{ site.repository }}">Visit the repository</a>
+      </div>
+   </div>
+   

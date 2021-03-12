@@ -1,6 +1,6 @@
 body {
     font-family: 'Helvetica Neue', 'Helvetica', 'Arial', sans-serif;
-    background-color: rgb(240, 240, 240);
+    background-color: rgb(245, 245, 245);
     padding: 0px;
     margin: 0px;
 }
@@ -19,7 +19,7 @@ body {
     border-radius: 1px;
     text-align: justify;
     margin-left: 50px;
-    margin-top: 50px;
+    margin-top: 20px;
     padding-bottom: 20px;
     padding-right: 40px;
     padding-left: 40px;
@@ -27,20 +27,26 @@ body {
     width: 60%;
 }
 
-.sidebar, .toc {
+.sidebar {
     padding-left: 20px;
     padding-right: 20px;
+    margin-top: 20px;
     width: 20%;
 }
 
-.sidebar ul, .toc ul {
+.sidebar ul {
     list-style: none;
     font-size: 15px;
-    padding-left: 0px;
+    padding-left: 1px;
 }
 
-.sidebar li, .toc li {
+.sidebar li {
     padding-bottom: 10px;
+}
+
+.active-link {
+    font-size: 20px;
+    font-weight: bold !important;
 }
 
 .sidebar a {
@@ -52,18 +58,16 @@ body {
     color: rgb(125, 125, 125);
 }
 
-.sticky-container {
-    padding-top: 77px;
-    position: sticky;
-    top: 0;
+.toc-fixed-container {
+    position: fixed;
 }
 
-.visit-the-repository {
+.get-in-touch {
     display: flex;
     align-items: center;   
 }
 
-.visit-the-repository a {
+.get-in-touch a {
     padding-left: 5px;
 }
 
@@ -88,7 +92,7 @@ img {
 
 hr {
     border: 0;
-    border-top: 1px solid lightgray;
+    border-top: 1px solid rgb(216, 216, 216);
 }
 
 code {
@@ -98,7 +102,7 @@ code {
 }
 
 a {
-    color: rgb(0, 123, 194);
+    color: rgb(0, 138, 230);
     text-decoration: none;
 }
 
@@ -117,14 +121,16 @@ a:hover {
     .content, .sidebar {
         padding-left: 20px;
         padding-right: 20px;
+        padding-bottom: 20px;
+        margin: 0px;
         width: 100%;
     }
 
-    .table-of-sections {
+    .sidebar {
         position: relative;
     }
 
-    .table-of-contents {
+    .toc-fixed-container {
         display: none;
     }
 }

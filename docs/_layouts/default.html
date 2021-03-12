@@ -7,22 +7,33 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="author" content="VCU Software Engineering">
   <link rel="stylesheet" href="{{ '/css/default.css' | prepend: site.url }}"/>
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/tocbot/4.11.1/tocbot.min.js"></script>
   <script src="https://cdn.jsdelivr.net/npm/feather-icons/dist/feather.min.js"></script>
 </head>
 <body>
   <!-- Header -->
   <div class="container">
     <!-- Table of Sections -->
-    {% include sidebar.html %}
+    {% include tos.html %}
     <!-- Content -->
     {% include content.html %}
     <!-- Table of Contents -->
     {% include toc.html %}
+
     <script>
+      /* Feather Icons - Setup */
       feather.replace({width: '1em', height: '1em'})
+
+      /* Table of Contents - Setup*/
+      tocbot.init({
+        tocSelector: '.toc',
+        orderedList: false,
+        listItemClass: '.sidebar li',
+        contentSelector: '.content',
+        headingSelector: 'h3',
+      });
     </script>
   </div>
-
 </body>
 </html>
