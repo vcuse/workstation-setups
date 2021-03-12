@@ -67,15 +67,15 @@ This action will load all images of the _Group λ (IMG)_ folder into LabelImg. Y
 To save all notes in the correct folder, click the _Change  Save Dir_ button on the left sidebar and select the _Group λ (XML)_ folder that you 
 extracted during Step 2:
 
-![GIF - Save Dir]({{ '/img/gif/change-savedir.gif' | prepend: site.url }})
+![GIF - Save Dir]({{ '/img/gif/change-savedir.gif' | prepend: site.baseurl }})
 
 To identify a new object in an image is quite simple: Click on the _Create RectBox_ button available on the left sidebar, and using the mouse pointer create a rectangle over the image where the object that you want to identify is located. A list of categories will be displayed. Select the most appropriate category for the object you want to identify:
 
-![GIF - Create RectBox]({{ '/img/gif/create-rectbox.gif' | prepend: site.url }})
+![GIF - Create RectBox]({{ '/img/gif/create-rectbox.gif' | prepend: site.baseurl }})
 
 If the object you want to identify is not related to one of the categories available in the list, ignore it by clicking the exit button and proceeding to the next object. Also make sure that the rectangles you have created are positioned correctly. You can use the mouse cursor to adjust the size of an incorrectly positioned rectangle:
 
-![GIF - Resize RectBox]({{ '/img/gif/resize-rectbox.gif' | prepend: site.url }})
+![GIF - Resize RectBox]({{ '/img/gif/resize-rectbox.gif' | prepend: site.baseurl }})
 
 After identifying all the possible objects in an image, click on the _Save_ button on the left sidebar to export your annotations to a XML file.
 Make sure that a XML file is being created at the _Group λ (XML)_ folder.

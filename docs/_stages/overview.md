@@ -6,7 +6,7 @@ toc: true
 
 To simplify the understanding of our work, we divided it in stages:
 
-![GIF - File List]({{ '/img/png/method-overview.png' | prepend: site.url }})
+![GIF - File List]({{ '/img/png/method-overview.png' | prepend: site.baseurl }})
 
 ### Stage 1
 

@@ -11,7 +11,7 @@
             <p><b>{{ name | capitalize }}</b></p>
             {% for item in site.[name] %}
             <li>
-               <a href="{{ item.url }}">{{ item.title }}</a>
+               <a href="{{ item.url | prepend: site.baseurl }}">{{ item.title }}</a>
             </li>
             {% endfor %}
          </ul>
