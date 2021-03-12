@@ -58,11 +58,11 @@ Extract the zip file in a safe and known location of your computer (e.g. the Doc
 
 Execute LabelImg on your computer (`python3 labelImg.py`). Click on the _Open Dir_ button available on the left sidebar, and select the _Group λ (IMG)_ folder that you extracted during Step 2:
 
-![GIF - Open Dir]({{ '/img/gif/open-dir.gif' | prepend: site.url }})
+![GIF - Open Dir]({{ '/img/gif/open-dir.gif' | prepend: site.baseurl }})
 
 This action will load all images of the _Group λ (IMG)_ folder into LabelImg. You can now browse the images using the _File List_ section at the bottom right of the tool:
 
-![GIF - File List]({{ '/img/gif/file-list.gif' | prepend: site.url }})
+![GIF - File List]({{ '/img/gif/file-list.gif' | prepend: site.baseurl }})
 
 To save all notes in the correct folder, click the _Change  Save Dir_ button on the left sidebar and select the _Group λ (XML)_ folder that you 
 extracted during Step 2:
