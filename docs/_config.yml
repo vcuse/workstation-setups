@@ -1,9 +1,9 @@
-title: "Exploring Software Developers' Home Workstations"
-email: "fronchettl@vcu.edu"
-description: "This is a replication package provided by VCU Software Engineering."
-github_username: "fronchetti"
-baseurl: "workstations/"
-repository: "https://github.com/vcuse/workstations"
+title: Exploring Software Developers' Home Workstations
+email: fronchettl@vcu.edu
+description: This is a replication package provided by VCU Software Engineering.
+github_username: fronchetti
+baseurl: workstations/
+repository: https://github.com/vcuse/workstations
 
 collections:
   stages:
