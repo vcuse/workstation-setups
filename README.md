@@ -3,9 +3,9 @@
 
 This repository contains the materials used in the paper "{Paper Title}", submitted to the {Conference}.
 
-* [Cropped images](https://github.com/vcuse/workstations/tree/master/data/pictures/cropped-items)
-* [Labeling process](https://vcuse.github.io/workstations/stages/overview)
-* [Browsable website](https://devworkstations.weebly.com/)
+* [Browsable website](https://devworkstations.weebly.com/) - View all workstations in an easy-to-browse website.
+* [Labeling process](https://vcuse.github.io/workstations/stages/overview) - Learn how we labeled each image's contents with image labeling software.
+* [Cropped images](https://github.com/vcuse/workstations/tree/master/data/pictures/cropped-items) - View all the cups, mice, keyboards, montiors, etc. found in our dataset.
 
 ## Replication Package:
 
