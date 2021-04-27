@@ -3,6 +3,10 @@
 
 This repository contains the materials used in the paper "{Paper Title}", submitted to the {Conference}.
 
+* [Cropped images](https://github.com/vcuse/workstations/tree/master/data/pictures/cropped-items)
+* [Labeling process](https://vcuse.github.io/workstations/stages/overview)
+* [Browsable website](https://devworkstations.weebly.com/)
+
 ## Replication Package:
 
 If you are interested in replicating and/or investigating how we conducted this study, read our [documentation](https://vcuse.github.io/workstations/).
