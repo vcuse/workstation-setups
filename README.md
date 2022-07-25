@@ -1,11 +1,11 @@
 
-# “Beam Me Up, Clippy”: Can Donning a Virtual Reality Headset Transform Crowded Home Offices into Spacious, Productive Workstations?
+## “Beam Me Up, Clippy”: Can Donning a Virtual Reality Headset Transform Crowded Home Offices into Spacious, Productive Workstations?
 
-This repository contains the materials used in the paper "{Paper Title}", submitted to the {Conference}.
+This repository contains the materials used in the paper.
 
 * [Browsable website](https://devworkstations.weebly.com/) - View all workstations in an easy-to-browse website.
-* [Labeling process](https://vcuse.github.io/workstations/stages/overview) - Learn how we labeled each image's contents with image labeling software.
-* [Cropped images](https://github.com/vcuse/workstations/tree/master/data/pictures/cropped-items) - View all the cups, mice, keyboards, montiors, etc. found in our dataset.
+* View workstation images [1](https://github.com/vcuse/workstations/tree/master/data/pictures/group-one) [2](https://github.com/vcuse/workstations/tree/master/data/pictures/group-two)[3](https://github.com/vcuse/workstations/tree/master/data/pictures/group-zero) - View all full images of workstations.
+* [Cropped images](https://github.com/vcuse/workstations/tree/master/data/pictures/cropped-items) - View all the cups, mice, keyboards, montiors, etc. found in our dataset, cropped out from their original picture.
 
 ## Replication Package:
 
