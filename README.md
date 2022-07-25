@@ -7,10 +7,6 @@ This repository contains the materials used in the paper.
 * View workstation images in Groups: [Group 1](https://github.com/vcuse/workstations/tree/master/data/pictures/group-one), [Group 2](https://github.com/vcuse/workstations/tree/master/data/pictures/group-two), or [Group 3](https://github.com/vcuse/workstations/tree/master/data/pictures/group-zero) (requires download).
 * [Cropped images](https://github.com/vcuse/workstations/tree/master/data/pictures/cropped-items) - View all the cups, mice, keyboards, montiors, etc. found in our dataset, cropped out from their original picture.
 
-## Replication Package:
-
-If you are interested in replicating and/or investigating how we conducted this study, read our [documentation](https://vcuse.github.io/workstations/).
-
 ## Authors
 
 * Felipe Fronchetti - fronchettl@vcu.edu
