@@ -1,5 +1,5 @@
 
-# {Paper Title}
+# “Beam Me Up, Clippy”: Can Donning a Virtual Reality Headset Transform Crowded Home Offices into Spacious, Productive Workstations?
 
 This repository contains the materials used in the paper "{Paper Title}", submitted to the {Conference}.
 
