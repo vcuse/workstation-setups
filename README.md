@@ -4,7 +4,7 @@
 This repository contains the materials used in the paper.
 
 * [Browsable website](https://devworkstations.weebly.com/) - View all workstations in an easy-to-browse website.
-* View workstation images in Groups [1](https://github.com/vcuse/workstations/tree/master/data/pictures/group-one), [2](https://github.com/vcuse/workstations/tree/master/data/pictures/group-two), or [3](https://github.com/vcuse/workstations/tree/master/data/pictures/group-zero).
+* View workstation images in Groups [1](https://github.com/vcuse/workstations/tree/master/data/pictures/group-one), [2](https://github.com/vcuse/workstations/tree/master/data/pictures/group-two), or [3](https://github.com/vcuse/workstations/tree/master/data/pictures/group-zero) (requires download).
 * [Cropped images](https://github.com/vcuse/workstations/tree/master/data/pictures/cropped-items) - View all the cups, mice, keyboards, montiors, etc. found in our dataset, cropped out from their original picture.
 
 ## Replication Package:
