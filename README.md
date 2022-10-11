@@ -1,5 +1,5 @@
 
-## “Beam Me Up, Clippy”: Can Donning a Virtual Reality Headset Transform Crowded Home Offices into Spacious, Productive Workstations?
+## Investigating High-Res Virtual Reality with Passthrough Cameras in the Wild for Work in Homes and Offices
 
 This repository contains the materials used in the paper.
 
@@ -10,8 +10,6 @@ This repository contains the materials used in the paper.
 ## Contact Info
 
 * Felipe Fronchetti - fronchettl@vcu.edu
-* Douglas Krug - krugdl@vcu.edu
 * David Shepherd - shepherdd@vcu.edu
-* Boden Khan - bakahn973@comcast.net
 
 Feel free to email us if you have any questions about this repository.
